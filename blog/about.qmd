@@ -13,6 +13,21 @@ about:
     - icon: github
       text: Github
       href: https://brasseurp.github.com
+    - icon: website
+      text: Site web
+      href: https://pierrebrasseur.fr
+    - icon: mail
+      text: Contact
+      href: mailto:pierre.brasseur@ulb.be
+    - icon: university
+      text: Université Libre de Bruxelles
+      href: https://www.ulb.be
+    - icon: web
+      text: Blog
+      href: https://pierrebrasseur.fr/blog
+    - icon: lab
+      text: Laboratoire de sociologie
+      href: https://www.is.ulb.be
 ---
 
 # Bienvenue sur mon blog académique !
