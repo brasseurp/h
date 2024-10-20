@@ -1,48 +1,55 @@
----
-title: "site"
----
+# Activités de recherche
 
-### **Activités de recherche :**
+## Thématiques principales
 
--   **2022** : **Santé mentale et environnement**\
-    Projet mené à Arènes (Université Rennes 1, EHESP), co-porté avec
-    Jean-Pierre Le Bourhis, Stève Bernardin et Nathalie Berny.
+Mes recherches s'articulent autour de plusieurs axes interconnectés :
 
-    -   Réalisation de 30 entretiens avec des agents de la fonction
-        publique.
+-   Sociologie de la santé et du handicap
 
--   **2017** : **Les travailleurs de l’intime sur internet : marchés et
-    santé sexuelle**\
-    Projet mené à l'Université de Grenoble (ANR-IDEX), co-porté avec
-    Jean Finez.
+-   Sexualité et genre
 
-    -   Réalisation de 50 entretiens semi-directifs.
+-   Politiques publiques et problèmes sociaux
 
--   **2022** : **Se suicider pendant le Covid**\
-    Projet postdoctoral en collaboration avec Guillaume Vaiva et
-    Marielle Wathelet.
+-   Travail du sexe et du care
 
-    -   Réalisation de 40 entretiens avec des professionnels de la santé
-        mentale.
+-   Inégalités sociales de santé
 
--   **2019** : **Inégalités sociales de handicap : emploi et aides
-    techniques**\
-    Co-porté avec Sylvain Pichetti (IRDES) et Emmanuelle Leray (EHESP).
+Mon parcours est caractérisé par une approche interdisciplinaire,
+explorant les intersections entre handicap, sexualité, et santé mentale
+dans le contexte des politiques publiques et des nouvelles formes
+d'organisation sociale.
 
-    -   Réalisation de 30 entretiens semi-directifs avec des personnes
-        atteintes de sclérose en plaques et enquête sur le financement
-        des aides techniques au Canada, en Suède et au Royaume-Uni.
+## Projets de recherche actuels
 
--   **2022** : **Santé sexuelle, jeunes et handicap**\
-    Projet mené en collaboration avec INSERM-INED, sous la direction
-    de P. Martin et E. de La Rochebrochard.
+### 1. Sociologie des suicides 
 
--   **2020** : **Handicap et traumatisme crânien**\
-    Projet en collaboration avec l'IRESP, INSERM et l'Université
-    Toulouse 2 (Anita Mediani). Étude des tensions entre aides humaines
-    et aides techniques, en collaboration avec François Sicot.
+### 2. [Économies de la sexualité sur Internet](/recherche/ecointime.qmd)
 
--   **2019** : **Inégalités sociales de santé et maladie de Crohn**\
-    Projet mené à Lille 3, sous la direction de Béatrice Touchelay.
+### 3. [Socioéconomie du handicap et de la sexualité](/recherche/handsex.qmd)
 
-------------------------------------------------------------------------
+## Travaux antérieurs significatifs
+
+### Thèse de doctorat (2017)
+
+"L'invention de l'assistance sexuelle : sociohistoire d'un problème
+public français"
+
+-   Intersection entre sociologie de la sexualité, du handicap, des
+    problèmes publics et des groupes professionnels
+
+### Projets postdoctoraux (2017-2021)
+
+-   Inégalités sociales de handicap (2019-2021)
+
+-   Inégalités sociales de santé et maladie de Crohn (2019-2020)
+
+-   Travailleurs de l'intime sur internet (2017-2018)
+
+## Projets en développement
+
+1.  "Vieillesse et population LGBT" (IRESP)
+
+2.  "Les nouveaux oubliés de la prévention" (ANRS)
+
+    -   Santé sexuelle et prévention des IST/VIH dans les populations
+        vulnérables

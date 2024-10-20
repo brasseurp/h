@@ -2,21 +2,19 @@
 title: "Les économies et le travail de la sexualité : Projet ECO-INTIME"
 ---
 
-### **Les économies et le travail de la sexualité : Projet ECO-INTIME**
+Dans le cadre du projet [**ECO-INTIME**](ECO-INTIME), financé par
+l'**Agence Nationale de la Recherche (ANR)**, j’ai mené une étude
+approfondie sur les trajectoires des travailleurs du sexe en ligne,
+notamment les **"cam-girls" et "cam-boys"**. Ce projet s’inscrit dans
+une réflexion plus large sur la **marchandisation de la sexualité** à
+travers les plateformes numériques. Il interroge les nouvelles formes de
+travail et les conditions économiques dans lesquelles évoluent ces
+travailleurs du sexe, tout en analysant les dynamiques de pouvoir, de
+visibilité et d’autonomie.
 
-Dans le cadre du projet **ECO-INTIME**, financé par l'**Agence Nationale
-de la Recherche (ANR)**, j’ai mené une étude approfondie sur les
-trajectoires des travailleurs du sexe en ligne, notamment les
-**"cam-girls" et "cam-boys"**. Ce projet s’inscrit dans une réflexion
-plus large sur la **marchandisation de la sexualité** à travers les
-plateformes numériques. Il interroge les nouvelles formes de travail et
-les conditions économiques dans lesquelles évoluent ces travailleurs du
-sexe, tout en analysant les dynamiques de pouvoir, de visibilité et
-d’autonomie.
-
-Mon rôle dans ce projet, que je partage avec **Jean Finez** (PACTE,
-Université Grenoble-Alpes), était de diriger l’axe « travail » de
-l’étude, en me focalisant sur les enjeux liés à l’évolution des
+Mon rôle dans ce projet, que je partage avec [Jean Finez](Jean Finez)
+(PACTE, Université Grenoble-Alpes), était de diriger l’axe « travail »
+de l’étude, en me focalisant sur les enjeux liés à l’évolution des
 conditions de travail sur ces plateformes numériques. Cette recherche a
 permis de mettre en lumière les tensions entre la promesse d’autonomie
 qu’offrent ces plateformes et les contraintes économiques et sociales
@@ -37,7 +35,7 @@ qui pèsent sur les travailleurs et travailleuses du sexe en ligne.
 
 2.  [**"Les économies de la sexualité en ligne : l’exemple des
     plateformes de
-    sexcamming"**]("Les économies de la sexualité en ligne : l’exemple des plateformes de sexcamming")
+    sexcamming"**](%22Les%20économies%20de%20la%20sexualité%20en%20ligne%20:%20l’exemple%20des%20plateformes%20de%20sexcamming%22)
     (Brasseur & Finez, 2020) – Publié dans la *Revue Française de
     Socio-Economie*, cet article s’intéresse aux **modèles économiques**
     des plateformes de sexcamming. Nous y démontrons comment ces
