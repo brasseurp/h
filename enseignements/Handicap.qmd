@@ -1,0 +1,12 @@
+---
+title: "Handicap"
+---
+
+# Enseignements en Sociologie du Handicap
+
+| Niveau | Intitulé du cours | Université | Format | Étudiants | Heures | Période |
+|----|----|----|----|----|----|----|
+| L2 | Sociologie du handicap | Saint-Étienne | CM | 75 | 24h | 2021-2022 |
+| M1 | Sociologie du handicap | Grenoble | CM | 40 | 24h | 2021-2022 |
+| M1 | Sociologie de la sexualité dans le champ du handicap | Brest | CM | 50 | 18h | 2017, 2020, 2022 |
+| DIU | Sociologie du handicap | Saint-Étienne, Paris Diderot | CM | 30 | 3h | 2021-2023 |

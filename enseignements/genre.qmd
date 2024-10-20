@@ -1,0 +1,18 @@
+---
+title: "Genre"
+---
+
+# Enseignements sur le Genre
+
+## Licence
+
+| Intitulé du cours | Université | Détails | Période |
+|----|----|----|----|
+| Rapports sociaux de sexe | Lille 1 | CM : 100 étudiants - 48h (2x2h) | 2013-2017 |
+| Sociologie du genre et de la santé | Paris 13 | CM : 150 étudiants - 126h (14x3h) | 2019-2023 |
+
+## Master
+
+| Intitulé du cours | Université | Détails | Période |
+|----|----|----|----|
+| Sociologie des émotions | Lille 1 (Master Pratiques et Politiques locales de Santé) | CM : 15 étudiants - 45h (3x3h) | 2013-2016 |
