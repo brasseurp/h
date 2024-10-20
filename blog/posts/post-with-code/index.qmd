@@ -1,0 +1,14 @@
+---
+title: "Un travail d'amour"
+author: "Pierre Brasseur"
+date: "2024-10-20"
+categories: [sociologie, amour, travail, care]
+image: "image.jpg"
+---
+
+Aujourd'hui, j'ai participé au cours d'Anthropologie du travail, animé
+par Kostia Lennas. J'y ai présenté ma perspective sur la notion de
+"travail d'amour", en m'appuyant sur deux textes : celui de Hilary
+Graham, « Caring: A Labour of Love » dans l'ouvrage *A Labour of Love*
+(1983), ainsi que l'article de G. Cresson, « La santé, production
+invisible des femmes », publié en 1991 dans *Recherches féministes*.

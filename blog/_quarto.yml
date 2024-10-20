@@ -1,0 +1,19 @@
+project:
+  type: website
+
+website:
+  title: "Blog de Pierre Brasseur"
+  navbar:
+    right:
+      - about.qmd
+      - icon: github
+        href: https://pbrasseur.github.com/
+      - icon: twitter
+        href: https://p_brasseur.x.com
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+
+editor: visual
+

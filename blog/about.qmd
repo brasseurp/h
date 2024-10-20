@@ -1,0 +1,56 @@
+---
+title: "A propos"
+image: profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://p_brasseurtwitter.com
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com
+    - icon: github
+      text: Github
+      href: https://brasseurp.github.com
+---
+
+# Blog de Pierre Brasseur
+
+**Bienvenue sur mon blog académique !**
+
+Je suis Pierre Brasseur, professeur à l'Université Libre de Bruxelles,
+spécialisé en sociologie, notamment sur les questions de genre, de
+sexualité, de handicap et de travail social. À travers ce blog, je
+partage mes réflexions, mes recherches et mes analyses sur des sujets
+qui me passionnent et qui alimentent mes travaux.
+
+### Thèmes abordés sur ce blog :
+
+-   **Sociologie du genre** : Déconstruire les stéréotypes et comprendre
+    les dynamiques de pouvoir à travers les études sur le genre.
+
+-   **Mobilisations sociales** : Explorer comment les mouvements sociaux
+    façonnent nos sociétés, avec un focus sur le travail et le
+    militantisme.
+
+-   **Handicap et sexualité** : Réfléchir aux représentations et à
+    l'évolution des droits des personnes en situation de handicap.
+
+-   **Travail social et politique publique** : Comprendre l'impact des
+    politiques sur la gestion des inégalités et les interventions
+    sociales.
+
+-   **Méthodologie de la recherche** : Conseils et ressources pour les
+    chercheurs en sciences sociales.
+
+### Mes derniers articles :
+
+-   *Le travail du care : une analyse critique des dynamiques de genre.*
+
+-   *Sexualité et handicap : défis et évolutions des représentations.*
+
+-   *Les nouvelles méthodes d'intervention dans le travail social.*
+
+Je vous invite à parcourir les articles et à participer aux discussions.
+Vos commentaires et réflexions sont les bienvenus !
