@@ -5,7 +5,7 @@ project:
 
 
 website:
-  title: "Pierre Brasseur, sociologue"
+  title: "Pierre Brasseur = sociologue"
   navbar:
     left:
       - href: index.qmd
@@ -19,6 +19,8 @@ website:
         text: Publications
       - href: blog/index.qmd
         text: Blog
+      - href: medias.qmd
+        text: Médias
         
 format:
   html:
