@@ -1,205 +1,156 @@
 ---
 title: "Chapitre 1 : Prendre soin : un travail d’amour"
+format: pdf
 ---
 
-**Hilary Graham**[^1]
+# **Hilary Graham**[^1]
 
 [^1]: Vous trouverez ici une traduction personelle de l'anglais vers le
     français destinée à aider les étudiant.e.s qui ont parfois des
     difficultés à lire en anglais.
 
-**Introduction**
+# **Chapitre 1 : Prendre soin : un travail d’amour”** 
 
-Ce chapitre explore ce que signifie prendre soin et ce que cela
-implique. Clairement, ce que cela signifie de prendre soin de quelqu’un
-et ce que cela implique sont étroitement liés, mais ils ne sont pas
-synonymes. Ces deux aspects sont distingués dès le départ parce qu’ils
-doivent être abordés ensemble si nous voulons mieux comprendre la nature
-du soin dans la société occidentale.
+**Hilary Graham[\[1\]](#_ftn1)**
 
-Prendre soin n’est pas quelque chose qui peut être défini simplement,
-même pas par le redoutable dictionnaire Oxford. Cependant, de manière
-générale, c’est un concept qui englobe une gamme d’expériences humaines
-liées au fait de se soucier du bien-être des autres et d’en assumer la
-responsabilité. Cette définition nous alerte immédiatement sur la
-question des significations et des implications : "se soucier" et
-"prendre en charge" ont à la fois des implications psychologiques et
-matérielles. Comme le montrent les chapitres de ce livre, l’expérience
-du soin touche simultanément à qui vous êtes et à ce que vous faites.
+# **Introduction**
 
-Bien que difficile à définir, le soin est clairement un concept central
-pour les politiques sociales. D’une part, l’expérience de prendre soin
-et d’être pris en charge est intimement liée à la façon dont nous nous
-définissons et dont nous définissons nos relations sociales. D’autre
-part, le soin fait partie intégrante du processus par lequel la société
-se reproduit et maintient la santé physique et mentale de sa
-main-d’œuvre.
+Ce chapitre explore la signification et les implications du soin. La
+signification et les implications de prendre soin de quelqu’un sont
+liées, mais pas synonymes. Ces aspects sont distingués dès le départ
+pour mieux comprendre la nature du soin dans la société occidentale.
 
-Reconnaître ces deux dimensions est essentiel pour l’analyse présentée
-dans ce chapitre. Cela suggère que prendre soin exige à la fois amour et
-travail, identité et activité, avec la nature des exigences façonnée par
-les relations sociales de la société dans son ensemble. Dans des
-sociétés divisées par le genre comme la nôtre, le soin a tendance à
-avoir des conséquences particulières pour l'identité et l'activité des
+Prendre soin n’est pas défini simplement, même par le dictionnaire
+Oxford. C’est un concept englobant des expériences humaines liées au
+bien-être des autres et d’en assumer la responsabilité. Cette définition
+soulève la question des significations et des implications : « se
+soucier » et « prendre en charge » ont à la fois des implications
+psychologiques et matérielles. L’expérience du soin touche simultanément
+à qui vous êtes et à ce que vous faites.
+
+Bien que difficile à définir, le soin est un concept central pour les
+politiques sociales. D’une part, l’expérience de prendre soin et d’être
+pris en charge est liée à notre définition personnelle et nos relations
+sociales. D’autre part, le soin est essentiel au processus de
+reproduction sociale et au maintien de la santé physique et mentale de
+la main-d’œuvre.
+
+Reconnaître ces deux dimensions est essentiel pour l’analyse du
+chapitre. Cela suggère que prendre soin exige à la fois amour et
+travail, identité et activité, avec des exigences façonnées par les
+relations sociales de la société. Dans des sociétés divisées par le
+genre comme la nôtre, le soin impacte l’identité et l’activité des
 femmes.
 
-Reconnaître la nature multidimensionnelle du soin est relativement
-simple ; c’est construire une analyse autour de cela qui pose problème.
-Que le soin soit défini comme une identité ou une activité, l’expérience
-du soin échappe aux catégories conceptuelles strictes des sciences
-sociales. Ces catégories ont été façonnées pour les nouvelles relations
-sociales du capitalisme du XIXe siècle, des relations sociales
-construites sur des changements dans l'organisation du soin. Cependant,
-de manière significative, elles ont obscurci à la fois ces changements
-dans l'éducation des enfants, le travail domestique, les soins aux
-malades et aux personnes âgées, et le système sous-jacent de divisions
-de genre sur lequel les nouveaux modes de soin étaient basés. Comme l’a
-noté Margaret Stacey, un cadre conceptuel qui sépare la reproduction de
-la production, le privé du public, la maison du travail, et le loisir du
-travail, échouera inévitablement à saisir des expériences qui
-transcendent ces divisions (Stacey, 1981).
+Reconnaître la nature multidimensionnelle du soin est simple ; c’est
+l’analyse qui pose problème. Que le soin soit une identité ou une
+activité, il échappe aux catégories des sciences sociales, conçues pour
+les relations capitalistes du XIXe siècle. Ces catégories ont obscurci
+les changements dans l’éducation des enfants, le travail domestique, les
+soins aux malades et personnes âgées, et les divisions de genre
+sous-jacentes. Comme l’a noté Margaret Stacey, un cadre qui sépare
+reproduction et production, privé et public, maison et travail, échoue à
+saisir des expériences qui transcendent ces divisions (Stacey, 1981).
 
-La nature du soin et les concepts à travers lesquels les scientifiques
-sociaux l'ont compris constituent deux problèmes distincts mais liés,
-que ce chapitre tente d'aborder. Il doit d'abord faire face au fait que
-le soin concerne à la fois notre existence matérielle et notre
-conscience. Il doit ensuite faire face à l’insuffisance d’un appareil
-scientifique aveugle aux phénomènes mêmes que nous cherchons à rendre
-visibles.
+La nature du soin et les concepts des scientifiques sociaux constituent
+deux problèmes distincts, mais liés, que ce chapitre tente d’aborder. Il
+doit d’abord faire face au fait que le soin concerne notre existence
+matérielle et notre conscience. Il doit ensuite faire face à
+l’insuffisance d’un appareil scientifique aveugle aux phénomènes que
+nous cherchons à rendre visibles.
 
-Ce sont des problèmes que l'analyse féministe cherche à surmonter. En
-s'appuyant sur les expériences partagées des femmes, elle commence à
-dévoiler — et à donner un sens à — des phénomènes qui sont restés
-"cachés de l'histoire" (Rowbotham, 1973 ; Smith, 1974). Une grande
-partie de ce travail — sur les relations familiales, les responsabilités
-familiales, l'impact des enfants et le vieillissement — touche
-directement à la question du soin (par exemple, Leonard Barker et Allen,
-1976 ; Mitchell et Oakley, 1976 ; Burman, 1979).
+L’analyse féministe cherche à surmonter ces problèmes. En s’appuyant sur
+les expériences partagées des femmes, elle commence à dévoiler — et à
+donner un sens à — des phénomènes restés « cachés de l’histoire »
+(Rowbotham, 1973 ; Smith, 1974). Ce travail — sur les relations
+familiales, les responsabilités familiales, l’impact des enfants et le
+vieillissement — touche directement à la question du soin (Leonard
+Barker et Allen, 1976; Mitchell et Oakley, 1976; Burman, 1979).
 
-Ces études suggèrent que, quels que soient les problèmes que rencontrent
-les professionnels lorsqu'ils parlent de soin, c'est un terme qui
-imprègne nos récits ordinaires de la vie quotidienne. Il structure nos
-conversations sur nos amis et nos amours : il est central à la façon
-dont nous pensons à notre famille (Stacey et Price, 1981, p. 186). Les
-conversations sur nos interactions avec l'État-providence, en tant que
-travailleurs et en tant que clients, sont souvent des conversations sur
-le soin (Jordan, 1976, chapitre 5).
+Ces études suggèrent que, quels que soient les problèmes rencontrés par
+les professionnels concernant le soin, c’est un terme qui imprègne nos
+récits quotidiens. Il structure nos conversations sur nos amis et nos
+amours : il est central à notre conception de la famille (Stacey et
+Price, 1981, p. 186). Les conversations sur nos interactions avec
+l’État-providence, en tant que travailleurs et clients, sont souvent des
+conversations sur le soin (Jordan, 1976, chapitre 5).
 
-En s’appuyant sur cette familiarité quotidienne avec le concept de soin,
-ce chapitre développe son argumentation en quatre sections. La première
-section définit l’expérience quotidienne du soin comme un travail
-d’amour. Les deux sections suivantes examinent la manière dont les
-scientifiques sociaux ont représenté l’amour et le travail du soin, la
-deuxième section s'inspirant de la littérature psychologique, et la
-troisième section soulignant certains des éclairages apportés par les
+Ce chapitre développe son argumentation en quatre sections. La première
+définit l’expérience quotidienne du soin comme un travail d’amour. Les
+deux suivantes examinent la représentation de l’amour et du travail du
+soin par les scientifiques sociaux, la deuxième s’inspirant de la
+littérature psychologique, et la troisième soulignant les éclairages des
 recherches récentes en politique sociale. La dernière section, résumant
-les contributions et les limites de ces deux approches, énonce quelques
-règles de base pour la construction d'une analyse alternative du soin.
+les contributions et limites de ces approches, énonce quelques règles de
+base pour une analyse alternative du soin.
 
-**Prendre soin : un travail d’amour**
+# **Prendre soin : un travail d’amour**
 
-Les conversations quotidiennes sur le soin sont généralement reconnues
-comme des discussions sur les sentiments. Lorsque nous parlons de «
-prendre soin » de quelqu’un, nous parlons de nos émotions. Lorsque le
-mot « amour » semble inapproprié, nous utilisons l'expression « prendre
-soin de » pour exprimer un sentiment de lien qui nous unit à nos amis,
-nos amours, nos enfants, nos parents, nos clients, nos patients.
+Les conversations quotidiennes sur le soin sont reconnues comme des
+discussions sur les sentiments. Lorsque nous parlons de « prendre soin »
+de quelqu’un, nous parlons de nos émotions. Lorsque le mot « amour »
+semble inapproprié, nous utilisons « prendre soin de » pour exprimer un
+lien avec nos amis, amours, enfants, parents, clients, patients.
 
-Le soin, dans ce sens de sentiments, est perçu comme une émotion humaine
-fondamentale. Toutes les personnes « normales » veulent et s’attendent à
-l’éprouver. « Aimer trop » peut être, comme le dit la chanson, « juste
-un fantasme juvénile », mais malgré cela, comme une autre chanson nous
-le dit, nous voulons tous « quelqu’un, quelque part, quelqu’un qui
-prendra soin de nous (et prendra un risque avec moi) ». Bien que le
-besoin de soin soit universel, seules certaines relations sociales sont
-perçues comme facilitant le don et la réception de soin. En général, les
-relations de soin sont celles impliquant des femmes : la présence d’une
-femme – en tant qu’épouse, mère, fille, voisine, amie – marque une
-relation comme étant, du moins potentiellement, une relation de soin.
-Comme ceux qui s’occupent des personnes handicapées et des personnes
-âgées le savent, le soin – qu’il soit à domicile, dans la communauté ou
-à l’hôpital – repose sur les femmes (Doyal, 1979 ; Finch et Groves, 1980
-; Parker, 1981). Les relations masculines, en revanche, sont perçues
-comme étant médiatisées d'une manière différente, les liens étant,
-ostensiblement du moins, basés non pas sur la compassion mais sur la
-compétition (Chodorow, 1978).
+Le soin est une émotion humaine fondamentale que tout le monde veut
+ressentir. Bien que le besoin de soin soit universel, seules certaines
+relations facilitent son échange. En général, les relations de soin
+impliquent des femmes : épouse, mère, fille, voisine, amie. Le soin,
+qu’il est à domicile, dans la communauté ou à l’hôpital, repose souvent
+sur les femmes (Doyal, 1979 ; Finch et Groves, 1980; Parker, 1981). Les
+relations masculines, en revanche, sont perçues comme basées sur la
+compétition plutôt que la compassion, mais sur la compétition (Chodorow,
+1978).
 
-Le soin est non seulement associé aux femmes, mais aussi à ces espaces
-privés où l’on trouve des relations intimes avec les femmes. Le soin est
-spécifiquement associé à la maison et à la famille. Comme le notent
-Margaret Stacey et Marion Price, « les valeurs de tendresse et de soin
-sont présentes et permises dans la famille plus que nulle part ailleurs
-» (1981, p. 180). En revanche, les relations contractées sur le marché
-du travail sont perçues comme engendrant une certaine distance sociale
-incompatible avec le fait de prendre soin. Il y a bien sûr des
-exceptions ; des professions où « la touche féminine » a été
-formellement intégrée à la description de poste. Ces professions,
-curieusement, ont une désignation spéciale : ce sont les « professions
-du soin » dans lesquelles la main-d'œuvre est largement féminine
-(Oakley, 1981, p. 155-8). Dans les métiers tels que les soins
-infirmiers, le travail social et l'enseignement primaire, les relations
-sociales sont médiatisées par le soin, avec, comme le souligne Margaret
-Adams (Adams, 1971, p. 558) :
+Le soin est souvent lié aux femmes et aux espaces privés comme la maison
+et à la famille, où les valeurs de tendresse prédominent (Stacey et
+Price, 1981). À l’inverse, les relations professionnelles sont vues
+comme distantes et peu propices au soin, sauf dans certaines
+« professions du soin » comme les soins infirmiers, le travail social et
+l’enseignement primaire, où le soin est central (Adams, 1971) :
 
-> « la fonction de synthèse traditionnellement accomplie par les femmes…
-> traduite dans une sphère plus large au-delà du foyer… Au lieu (ou en
-> plus) de maintenir la famille intacte et fonctionnelle, les femmes se
-> retrouvent impliquées dans des tâches ménagères au nom de la société
-> dans son ensemble. »
+> « la fonction de synthèse traditionnellement accomplie par les femmes…
+> dans une sphère plus large au-delà du foyer… Au lieu (ou en plus) de
+> maintenir la famille intacte et fonctionnelle, les femmes se
+> retrouvent impliquées dans des tâches ménagères au nom de la
+> société. »
 
-L’image du soin en tant que sentiment reflète clairement un aspect
-important de notre expérience. Nous prenons soin de quelques personnes
-de manière différente par rapport aux relations plus instrumentales qui
-dominent la plupart de nos vies. Mais ce ne sont pas uniquement les
-sentiments qui distinguent ces relations particulières. Le soin implique
-également une transaction de biens et de services. Les relations de soin
-dans lesquelles les femmes s’engagent — avec leurs maris, enfants,
-parents, clients — reposent sur des liens matériels aussi bien que
-symboliques. Comme les soignants l’ont témoigné à travers l’histoire, le
-soin est perçu comme un travail d’amour, un travail qui doit continuer
-même quand l’amour s’estompe (Oral History, 1977 ; EOC, 1981 ; Spring
-Rice, 1981).
+L’image du soin en tant que sentiment reflète un aspect important de
+notre expérience. Nous prenons soin de quelques personnes différemment
+par rapport aux relations instrumentales de nos vies. Mais ce ne sont
+pas uniquement les sentiments qui distinguent ces relations. Le soin
+implique également une transaction de biens et de services. Les
+relations de soin des femmes — avec leurs maris, enfants, parents,
+clients — reposent sur des liens matériels et symboliques. Comme l’a
+témoigné à travers l’histoire, le soin est perçu comme un travail
+d’amour, qui doit continuer même quand l’amour s’estompe (Oral History,
+1977 ; EOC, 1981 ; Spring Rice, 1981).
 
-La double nature du soin — à la fois travail et amour — se reflète dans
-la littérature des sciences sociales. Cependant, ces deux dimensions
-sont traitées séparément. Les aspects matériels du soin ont été étudiés
-(bien que récemment) dans le cadre des politiques sociales, tandis que
-les psychologues ont exploré sa signification émotionnelle. Cette
-division disciplinaire présente certains avantages. En mettant en
-lumière le travail impliqué dans le soin, il a été possible de
-quantifier la contribution économique du rôle de soignant (EOC, 1981 ;
-Nelson, 1980). Des recherches récentes ont montré comment ce rôle
-enferme à la fois le soignant et la personne prise en charge dans des
-positions de dépendance, des positions que l’État-providence tend à
-institutionnaliser plutôt qu’à atténuer (Walker, 1980 ; Finch et Groves,
-1982). Parallèlement, la recherche psychologique a révélé les
-conséquences émotionnelles du soin. Des psychologues, aux orientations
-politiques très diverses, s’accordent à dire que le soin n’est pas
-simplement un autre rôle de travail réservé aux femmes dans la division
-sexuelle du travail. Ils affirment que le soin est l’activité
-constitutive par laquelle les femmes réalisent leur féminité, tandis que
-la masculinité se définit en opposition (Horney, 1932 ; Baker Miller,
-1976 ; Chodorow, 1978). Toute contribution matérielle que le soin
-pourrait apporter au maintien du capitalisme et du patriarcat est ainsi
-perçue comme secondaire par rapport à son rôle dans la construction de
-la psychologie féminine.
+La double nature du soin — travail et amour — est souvent séparée dans
+la littérature en sciences sociales. Les aspects matériels sont étudiés
+dans les politiques sociales, tandis que les psychologues examinent sa
+signification émotionnelle. Cette séparation aide à quantifier la
+contribution économique du soin (EOC, 1981 ; Nelson, 1980). Des
+recherches récentes montrent que le soin crée des dépendances entre
+soignant et personne prise en charge, que l’État-providence
+institutionnalise plutôt qu’atténue (Walker, 1980 ; Finch et Groves,
+1982). Psychologiquement, le soin n’est pas juste un rôle féminin dans
+le travail ; il est essentiel à la féminité, la masculinité se
+définissant en opposition (Horney, 1932 ; Baker Miller, 1976 ; Chodorow,
+1978). Toute contribution matérielle au capitalisme et du patriarcat est
+vue comme secondaire par rapport à son rôle psychologique.
 
-Cette séparation disciplinaire a cependant des limites inévitables,
-réduisant à la fois l’étendue et la profondeur de notre compréhension.
-La perspective psychologique voit le soin comme le mécanisme par lequel
-la conscience des femmes et des hommes est recréée de génération en
-génération, mais elle a tendance à ignorer les forces économiques et
-politiques qui déterminent cette conscience. À l’inverse, dans les
-politiques sociales, la tendance opposée est perceptible, avec la
-psychologie subordonnée à l’économie. Le soin, dépouillé de son rôle
-symbolique dans la construction de l’identité féminine, est réduit à une
-simple transaction de biens et de services obligatoire au sein de la
-famille patriarcale. Ici, le soin tend à être défini comme un acte de
-sacrifice féminin et de suprême abnégation, et non, comme l’affirment de
-nombreux psychologues, comme le processus fondamental par lequel un
-sentiment de soi et de réalisation de soi est atteint.
+Cette séparation disciplinaire a des limites, réduisant notre
+compréhension. La psychologie voit le soin comme un mécanisme de
+transmission de la conscience entre générations, mais ignore souvent les
+forces économiques et politiques influentes. À l’inverse, les politiques
+sociales subordonnent la psychologie à l’économie. Le soin, dépouillé de
+son rôle symbolique dans l’identité féminine, devient une simple
+transaction dans la famille patriarcale. Il est souvent vu comme un
+sacrifice féminin, plutôt que le processus fondamental de réalisation de
+soi, comme le disent de nombreux psychologues.
 
-# Le soin comme nature féminine : perspectives psychologiques sur le soin
+# **Le soin comme nature féminine : perspectives psychologiques.**
 
 Cette section résume une partie de la littérature psychologique qui
 aborde, directement ou indirectement, le rôle du soin dans la
@@ -208,23 +159,23 @@ indiquer des directions et des tendances dans le travail sur la
 psychologie des femmes, plutôt que de fournir un compte rendu exhaustif
 de l’ensemble de la discipline.
 
-Au cœur du paradigme psychologique se trouve l'idée que le soin ne peut
+Au cœur du paradigme psychologique se trouve l’idée que le soin ne peut
 être réduit à un simple processus de travail — un problème inhérent aux
 tentatives récentes de catégoriser et qualifier les composantes du soin
 (voir EOC, 1981 et Parker, 1981). Son importance réside plutôt dans son
-affinité psychologique avec la féminité ; dans le fait que les qualités
+affinité psychologique avec la féminité ; dans le fait que les qualités
 exigées des soignants — une sensibilité aux besoins des autres, la
 capacité à attendre, observer et s’adapter à l’évolution de ces besoins
 — sont des qualités montrées par les femmes dans la société occidentale.
 
 Cette relation intime entre le soin et la féminité est perçue non
 seulement comme un aspect ou un résultat de la division sexuelle du
-travail au sein de la famille. Selon Horney et De Beauvoir, c’est le
-principe organisateur autour duquel elle se construit (Horney, 1932 ; De
-Beauvoir, 1972). Le « soin » devient la catégorie à travers laquelle un
-sexe se différencie de l’autre. Le soin est « attribué » aux femmes : il
+travail au sein de la famille. Selon Horney et de Beauvoir, c’est le
+principe organisateur autour duquel elle se construit (Horney, 1932 ; de
+Beauvoir, 1972). Le « soin » devient la catégorie à travers laquelle un
+sexe se différencie de l’autre. Le soin est « attribué » aux femmes : il
 devient la caractéristique définissant leur identité et leur travail de
-vie. Simultanément, le soin est retiré aux hommes : le fait de ne pas
+vie. Simultanément, le soin est retiré aux hommes : le fait de ne pas
 s’occuper des autres devient une caractéristique définissant la
 masculinité. Les hommes se distinguent comme étant séparés et différents
 des femmes parce qu’ils ne sont pas impliqués dans le soin des autres.
@@ -232,488 +183,373 @@ Leur sentiment d’identité se réalise en faisant des choses pour
 eux-mêmes (Chodorow, 1978).
 
 L’idée que le soin est le concept qui marque la frontière entre féminin
-et masculin se retrouve dans la distinction psychologique entre « être »
-et « faire » (Chodorow, 1971). « Être » est un concept qui encapsule la
-nature passive mais tournée vers les autres de la féminité ; « faire »,
-en revanche, capture la nature active et tournée vers soi de la
-masculinité. Selon Karen Horney, par exemple, la féminité est quelque
-chose qu’une femme acquiert par ses relations sexuelles avec les hommes
-— et plus précisément par la copulation, la conception et la maternité.
-Dans cette relation, « elle accomplit son rôle simplement en étant, sans
-rien faire » (1932, p. 359, italiques dans l’original). La masculinité,
-en revanche, doit être activement réalisée : les mécanismes du sexe et
-de la reproduction exigent que « l’homme fasse quelque chose pour se
-réaliser » (ibid., italiques dans l’original). Simone de Beauvoir et
-Margaret Mead voient la division entre « être » et « faire » se refléter
-dans la sphère sociale ainsi que dans l’arène sexuelle. De Beauvoir
-remarque, avec une certaine mélancolie, que le jeune garçon entre dans
-le domaine public pour faire un travail productif et devenir riche (« il
-sera marin ou ingénieur, il ira... en ville, il verra le monde, il
-deviendra riche, il se sentira libre », 1972, p. 325). Pendant ce temps,
-sa sœur reste dans le domaine privé, condamnée à une vie non productive
-d'inactivité choisie non par elle-même, mais par les autres.
+et masculin apparaît dans la distinction entre « être » et « faire »
+(Chodorow, 1971). « Être » reflète la nature passive, mais tournée vers
+les autres de la féminité ; « faire », en revanche, capture la nature
+active et tournée vers soi de la masculinité. Selon Karen Horney suggère
+que la féminité s’acquiert par ses relations sexuelles avec les hommes,
+notamment par la copulation, la conception et la maternité, où la femme
+joue son rôle en « étant » (1932, p. 359, italiques dans l’original). La
+masculinité, en revanche, nécessite une action. Simone de Beauvoir et
+Margaret Mead notent que cette division se reflète aussi socialement. De
+Beauvoir observe que le garçon entre dans le domaine public pour faire
+un travaillé et devenir riche, tandis que sa sœur reste dans le domaine
+privé, vouée à une vie non choisie d’inactivité.
 
-> La jeune fille sera une épouse, une grand-mère ; elle tiendra la
-> maison comme sa mère l’a fait, elle donnera à ses enfants le même soin
-> qu’elle a reçu dans sa jeunesse — elle a douze ans et déjà son
-> histoire est écrite dans les étoiles. Elle la découvrira jour après
-> jour sans jamais la créer elle-même.
-> (De Beauvoir, 1972, p. 325).
+> La jeune fille sera une épouse, une grand-mère ; elle tiendra la
+> maison comme sa mère, elle donnera à ses enfants le même soin qu’elle
+> a reçu — elle a douze ans et déjà son histoire est écrite dans les
+> étoiles. Elle la découvrira jour après jour sans jamais la créer. (De
+> Beauvoir, 1972, p. 325).
 
-Mead développe un argument similaire, mais souligne les coûts ainsi que
-les avantages pour les hommes. Le rôle de soin des femmes leur confère
-une « assurance simple » dans leur identité sexuelle, tandis que la
-masculinité doit être « conservée et reconquise chaque jour ». En
-conséquence, les garçons, contrairement aux filles, vivent dans la
-crainte de devenir « déssexués par l’échec » (Mead, 1949, p. 303).
+Mead développe un argument similaire, mais souligne les coûts et
+avantages pour les hommes. Le rôle de soin des femmes leur confère une
+« assurance simple » dans leur identité sexuelle, tandis que la
+masculinité doit être « conservée et reconquise chaque jour ». En
+conséquence, les garçons, contrairement aux filles, craignent de devenir
+« déssexués par l’échec » (Mead, 1949, p. 303).
 
-Bien que mettant en évidence les différences évidentes dans les modes de
-vie et les chances de vie des sexes, ces explications de la psychologie
-des femmes reproduisent bon nombre des présupposés idéologiques que nous
-devons remettre en question. Une typologie qui sépare l’action de
-l’être, le travail du soin, ne représente guère plus qu’une
-réinterprétation de la distinction traditionnelle entre les
-hommes-qui-font et les femmes-qui-soignent. Selon cette tradition, les
-hommes sont définis par rapport au marché du travail, en précisant leur
-profession (ou l’absence de celle-ci). Les femmes, en revanche, sont
-introduites en des termes moins universels, à travers leurs relations de
-soin — comme l’épouse de Bill et la mère de Ben. Comme l’a exprimé
-George Eliot dans *Le Moulin sur la Floss*, « vous ne demandez pas ce
-que fait une dame, vous demandez à qui elle appartient ».
+Ces explications sur la psychologie des femmes soulignent les
+différences de modes de vie et de chances entre sexes, mais reproduisent
+des présupposés idéologiques à remettre en question. Une typologie
+séparant action et être, travail et soin, réinterprète la distinction
+hommes qui font/femmes qui-soignent. Les hommes sont définis par leur
+travail (ou absence), tandis que les femmes sont présentées par leurs
+relations de soin — comme l’épouse de Bill et la mère de Ben. Comme le
+dit George Eliot dans *Le Moulin sur la Floss*, « vous ne demandez pas
+ce que fait une dame, mais à qui elle appartient » ?
 
-Cependant, au lieu de remettre en question cette division traditionnelle
-du travail, les psychologues ont souvent tendance à baser leurs analyses
-dessus. En conséquence, ils déforment et banalisent la nature du rôle
-des femmes. Le soin et la féminité sont définis dans les limites
-étroites du mariage et de la maternité, où les femmes sont perçues comme
-atteignant leur état d’être à travers leurs relations avec leurs maris
-et leurs enfants. Cependant, le statut dépendant des femmes est
-déterminé par des forces économiques autant que psychiques ; des forces
-qui s’étendent au-delà du foyer conjugal dans un réseau de relations de
-soin au sein de la famille élargie et de la communauté (McIntosh, 1981,
-et les chapitres de ce volume par Walker et par Groves et Finch).
-L’expérience et l’identité d’une femme en tant que soignante sont de
-plus en plus façonnées non par son implication avec les membres valides
-de la famille nucléaire immédiate, mais par les services qu’elle fournit
-aux malades, aux personnes âgées et aux handicapés (Parker, 1981 ; EOC,
-1982a). Un modèle théorique qui explique la prédisposition des femmes à
-prendre soin en termes psychologiques masque inévitablement la
-possibilité que cela ne soit pas le produit d’une personnalité féminine
-durable, mais résulte de la manière particulière dont la reproduction
-(au sens large) est organisée dans notre société.
+Au lieu de remettre en question cette division traditionnelle du
+travail, les psychologues ont souvent le dessus, déformant ainsi le rôle
+des femmes. Le soin et la féminité sont confinés au mariage et à la
+maternité, où les femmes sont perçues à travers leurs relations avec
+leurs maris et enfants. Le statut dépendant des femmes est influencé par
+des forces économiques et psychiques, s’étendant au-delà du foyer à la
+famille élargie et à la communauté (McIntosh, 1981, et les chapitres de
+ce volume par Walker et par Groves et Finch). L’expérience et l’identité
+d’une femme en tant que soignante d’une femme sont façonnées par les
+services qu’elle fournit aux malades, aux personnes âgées et aux
+handicapés (Parker, 1981; EOC, 1982a). Un modèle théorique qui explique
+cette tendance par des facteurs psychologiques masque la possibilité que
+cela découle de l’organisation sociale de la reproduction.
 
-Deuxièmement, les récits psychologiques occultent la nature intense et
-hautement stressante du rôle de soignant. Par exemple, comme Simone de
-Beauvoir, Margaret Adams, dans un compte rendu par ailleurs excellent de
-la psychologie des femmes, a soutenu que le soin enferme les femmes dans
-des « trivialités autodestructrices » qui privent la société des «
-contributions vitales et significatives que les femmes pourraient
-apporter » (Adams, 1971, p. 536). Cependant, comme en témoignent les
-études empiriques, prendre soin — que ce soit pour des maris et des
-enfants ou pour ceux en dehors de la famille nucléaire — est loin d’être
-trivial et insignifiant. De plus, c’est une activité où la réussite est
-constamment remise en question, et les femmes peuvent effectivement se
-sentir « déssexuées par l’échec » (Graham, 1982).
+Les récits psychologiques occultent la nature intense du rôle de
+soignant. Par exemple, comme Simone de Beauvoir a affirmé que le soin
+enferme les femmes dans des « trivialités autodestructrices » qui
+privent la société des « contributions vitales (Adams, 1971, p. 536).
+Pourtant, les études empiriques, prendre soin — que ce soit de la
+famille ou d’autres, n’est ni trivial et insignifiant. C’est une
+activité où la réussite est constamment remise en question, et les
+femmes peuvent se sentir « déssexuées par l’échec » (Graham, 1982).
 
-La distinction entre « faire » et « être » déforme la nature du rôle de
-soin des femmes d'une troisième manière. Elle masque la manière dont les
-catégories à travers lesquelles nous définissons le genre sont des
-constructions sociales et non des entités psychologiques. Ce qui est
-considéré comme du soin dépend autant de la personne qui le fait que de
-ce qui est fait. Les étiquettes non liées au travail, comme « garde
-d'enfants » et « entretien de la maison », ont tendance à être attachées
-aux contributions des personnes occupant des positions subordonnées dans
-la société ; le terme « travail », et en particulier « travail qualifié
-», est réservé aux activités des hommes. Comme le notent Anne Phillips
-et Barbara Taylor, de telles étiquettes doivent être considérées comme
-des catégories idéologiques « imposées à certains types de travail en
-vertu du sexe et du pouvoir des travailleurs qui les exercent » (1980,
-p. 79). Néanmoins, le soin reste unique en étant largement en dehors de
-la production de biens de consommation, en tant que forme de travail
-avec des possibilités limitées de spécialisation et de mécanisation sur
-lesquelles repose la recherche de profit.
+La distinction entre « faire » et « être » déforme le rôle de soin des
+femmes en masquant que les définitions de genre sont des constructions
+sociales. Ce qui est considéré comme du soin dépend autant de la
+personne que de l’action. Les étiquettes comme « garde d’enfants » et
+« entretien de la maison » sont souvent réservées aux personnes
+subordonnées, tandis que « travail qualifié » est associé aux hommes.
+Comme le disent Anne Phillips et Barbara Taylor, de telles étiquettes
+sont idéologiques, imposées par le sexe et du pouvoir des travailleurs.
+Le soin reste unique, étant en dehors de la production de biens de
+consommation, avec peu de possibilités de spécialisation et de
+mécanisation pour le profit.
 
-Jean Baker Miller et Nancy Chodorow ont tenté de fournir des
-perspectives alternatives sur le soin qui tiennent compte du contexte
-idéologique et économique dans lequel il se déroule (Baker Miller, 1976
-; Chodorow, 1978). Baker Miller, par exemple, suggère que c’est à
-travers leur position subordonnée que les femmes acquièrent leur
-prédisposition psychologique à prendre soin : la sensibilité, l’empathie
-et la compassion des femmes sont des qualités finement adaptées à la
-survie dans une société dominée par les hommes. Les femmes « deviennent
-très attentives aux dominants, capables de prédire leurs réactions de
-plaisir et de mécontentement. C’est là... que commence la longue
-histoire de "l'intuition féminine" » (Baker Miller, 1976, p. 11). Bien
-que dévalorisées, Baker Miller suggère que ces qualités sont celles sur
-lesquelles une société plus attentive pourrait être construite (1976, p.
-57) :
+Jean Baker Miller et Nancy Chodorow[^2] proposent des perspectives sur
+le soin en lien avec le contexte idéologique et économique (Baker
+Miller, 1976 ; Chodorow, 1978). Baker Miller affirme que la position
+subordonnée des femmes développe leur prédisposition à prendre soin :
+sensibilité, empathie et compassion, adaptées à une société dominée par
+les hommes. Les femmes deviennent attentives aux dominants, capables de
+prédire leurs réactions, ce qui alimente la notion d’intuition féminine
+(Baker Miller, 1976, p. 11). Bien que dévalorisées, ces qualités
+pourraient fonder une société plus attentive (1976, p. 57) :
 
-> « Les femmes ont traditionnellement construit un sentiment de valeur
-> personnelle à partir d’activités qu’elles parviennent à définir comme
-> prenant soin des autres et en leur donnant. Si elles parviennent à se
-> convaincre qu’elles font du bon travail défini de cette manière, elles
-> peuvent accomplir des choses considérables. »
+[^2]: Jean Baker Miller, connue pour ses travaux sur le développement
+    psychologique des femmes et son livre "Toward a New Psychology of
+    Women" (1976), a introduit le concept de "croissance-en-relation"
+    qui souligne l'importance des connexions interpersonnelles dans le
+    développement féminin. Nancy Chodorow, quant à elle, s'est
+    distinguée par ses recherches sur la théorie des relations d'objet
+    et la formation de l'identité de genre, notamment dans son ouvrage
+    "The Reproduction of Mothering" (1978), où elle explore comment les
+    rôles parentaux influencent le développement psychologique des
+    enfants.
 
-Nancy Chodorow adopte une approche plus explicitement psychanalytique.
-Contrairement à Baker Miller, elle soutient que le rôle de soignant
-n’est pas reproduit directement par les processus de domination
-masculine. Il est reproduit par les femmes elles-mêmes, à travers la
-dynamique de la relation mère-fille. En prenant soin des enfants, les
-femmes recréent les types de personnalité que nous associons à la
-masculinité et à la féminité. Les soins qu’une mère prodigue à sa fille
-lui inculquent les besoins et les capacités pour prendre soin des autres
-plus tard dans la vie. Les soins qu’elle prodigue à son fils produisent
-les caractéristiques de personnalité nécessaires à la participation et à
-la réussite dans le monde sans soin au-delà de la maison (Chodorow,
-1978, pp. 167, 160) :
+> « Les femmes ont traditionnellement construit un sentiment de valeur
+> personnelle à partir d’activités définies comme prenant soin des
+> autres. Si elles se convainquent qu’elles font un bon travail, elles
+> peuvent accomplir des choses considérables. »
 
-« Les filles émergent... avec une base pour "l'empathie" intégrée dans
-leur définition primaire du moi, d'une manière que les garçons n'ont
-pas. Les filles émergent avec une base plus solide pour ressentir les
-besoins ou les sentiments des autres comme les leurs. Très tôt, parce
-qu'elles sont élevées par une personne du même sexe, les filles en
-viennent à se percevoir comme... plus continues avec et reliées au monde
-extérieur... Les garçons en viennent à se définir comme plus séparés et
-distincts, avec un sens plus rigide des limites de l'ego. Le sens
-fondamental de soi féminin est connecté au monde, le sens fondamental de
-soi masculin est séparé. »
+Nancy Chodorow adopte une approche psychanalytique. Contrairement à
+Baker Miller, elle soutient que le rôle de soignant n’est pas reproduit
+directement par les processus de domination masculine, mais par les
+femmes, à travers la dynamique de la relation mère-fille. En prenant
+soin des enfants, les femmes recréent les types de personnalité associés
+à la masculinité et à la féminité. Les soins d’une mère à sa fille lui
+inculquent les besoins et capacités pour prendre soin des autres, et
+ceux à son fils produisent les caractéristiques nécessaires à la
+réussite dans le monde sans soin au-delà de la maison (Chodorow, 1978,
+pp. 167, 160) :
 
-Dans le récit de Chodorow, comme dans celui de Baker Miller, le soin est
-identifié comme une activité intimement liée à la société dominée par
-les hommes dans laquelle il est enraciné. (Comme le note Chodorow, « la
-division sexuelle du travail et la responsabilité des femmes pour les
-soins aux enfants sont liées à la domination masculine et la génèrent »,
-1978, p. 214.) Cependant, des problèmes subsistent encore. Le soin ne
-peut être expliqué uniquement en termes de psychodynamique — que ce soit
-dans la relation mère-enfant (Chodorow) ou dans la relation entre
-dominants et subordonnés (Baker Miller). Le rôle de soignant a des
-origines plus complexes. Il est construit à travers un réseau de
-relations sociales et économiques, à la fois à la maison et au travail,
-dans lesquelles les femmes assument la responsabilité de répondre aux
-besoins émotionnels et matériels non seulement des maris et des enfants,
-mais aussi des personnes âgées, des handicapés, des malades et des
-malheureux. De plus, comme le soutient Janet Sayers, les récits
-psychologiques du rôle des femmes tendent à affirmer non seulement la
-valeur du soin, mais la valeur de la féminité elle-même, une affirmation
-qui peut rapidement glisser vers l'acceptation de l'idée populaire selon
-laquelle femmes et hommes jouissent d'une « égalité dans la différence
-». Ce faisant, ils encouragent une célébration des arrangements
-idéologiques qui soutiennent la subordination des femmes (Sayers, 1982).
+> « Les filles émergent avec une base d’empathie dans leur définition du
+> moi, d’une manière que les garçons n’ont pas. Elles ont une base plus
+> solide pour ressentir les besoins ou les sentiments des autres.
+> Élevées par une personne du même sexe, les filles se perçoivent comme
+> plus continues et reliées au monde extérieur… Les garçons se
+> définissent comme plus séparés et distincts, avec un sens rigide des
+> limites de l’ego. Le sens de soi féminin est connecté au monde, le
+> sens de soi masculin est séparé. »
 
-# Le soin en tant que travail des femmes : perspectives des politiques sociales sur le soin
+Dans les récits de Chodorow et Baker Miller, le soin est lié à une
+société dominée par les hommes. Chodorow note que la division sexuelle
+du travail et la responsabilité des femmes pour les soins génèrent la
+domination masculine. Cependant, le soin ne s’explique pas seulement par
+la psychodynamique des relations mère-enfant (Chodorow) ou
+dominants-subordonnés. Le rôle de soignant a des origines complexes,
+construites à travers des relations sociales et économiques où les
+femmes répondent aux besoins des familles et des personnes vulnérables.
+Selon Janet Sayers, les récits psychologiques valorisent le soin et la
+féminité, risquant de promouvoir l’idée d’« égalité dans la différence »
+et de soutenir la subordination des femmes (Sayers, 1982).
 
-Une reconceptualisation du soin est centrale à la reconstruction
-contemporaine de la psychologie des femmes. Elle est également
-essentielle au projet plus large de développement d'une perspective
-féministe sur la position des femmes dans la société. La clé d'une telle
-perspective réside dans une compréhension de la nature de la famille
-(McIntosh, 1979). Ici, le concept de soin est considéré comme
-fondamental à deux égards. Premièrement, comme l'a indiqué la section
-précédente, le soin par les mères est identifié comme le processus par
-lequel la construction du genre se fait : c'est ainsi que les hommes et
-les femmes émergent en tant qu'êtres humains différents. Deuxièmement,
-le soin des épouses et des mères est vu comme le mécanisme par lequel
-les familles sont reconstituées quotidiennement. C'est la prestation de
-soins de haute qualité et non rémunérés au sein du foyer qui maintient
-la famille. Ces deux dimensions — la construction du genre et le
-maintien de la famille — sont étroitement liées. La famille — ou plus
-précisément, les catégories de genre que sont le mari, l'épouse, le
-fils, la fille, le grand-père, la grand-mère, qui constituent la famille
-— est soutenue par le travail de soin des femmes. Cette unité familiale,
-à son tour, fournit la structure dans laquelle le soin est effectué : où
-les enfants sont élevés, les maris soutenus, et les personnes âgées et
-handicapées aidées.
+# **Le soin en tant que travail des femmes : perspectives des politiques sociales.**
 
-Alors que les psychologues expliquent les divisions sexuelles au sein de
-la famille en termes de besoins psychodynamiques, les féministes
-travaillant dans le domaine des politiques sociales voient la division
-entre les hommes-qui-font et les femmes-qui-prennent-soin comme un
-reflet des besoins de la société dans son ensemble. Les forces sociales
-à l’œuvre sont toutefois complexes et contradictoires. La séparation
-sociale et spatiale entre la production (faire-au-travail) et la
-reproduction (prendre-soin-à-la-maison) est liée à la montée du
-capitalisme et à sa séparation des « gagne-pains » et des « dépendants
-». Cependant, la logique du capitalisme seule ne suffit pas à expliquer
-pourquoi ces divisions coïncident avec celles du genre (Breugel, 1978 ;
-Hartmann, 1979). Elle n'explique pas pourquoi le soin devrait être « le
-travail des femmes », pourquoi la maison devrait être « le lieu des
-femmes », pourquoi les femmes devraient être des appendices et les
-hommes leurs pourvoyeurs. Pour comprendre la nature genrée du soin, nous
-devons confronter la division sexuelle du travail préexistante, sur
-laquelle et dans laquelle les nouvelles formes d’organisation économique
-se sont développées.
+Repenser le soin est crucial pour reconstruire la psychologie des femmes
+et développer une perspective féministe sur leur rôle social. Comprendre
+la famille (McIntosh, 1979). Le soin est considéré comme fondamental à
+deux niveaux : il façonne le soin par les mères jouant un rôle central,
+et il maintient la famille par le travail non rémunéré des femmes. Ces
+deux aspects sont étroitement liés. La famille, avec ses rôles genrés,
+repose sur le travail de soin des femmes, offrant ainsi une structure où
+les enfants, maris et personnes âgées et handicapées aidées.
+
+Les psychologues expliquent les divisions sexuelles familiales par des
+besoins psychodynamiques, les féministes en politiques sociales voient
+la division entre les hommes qui font/femmes qui prennent-soin comme un
+reflet des besoins sociétaux. La séparation entre la production (faire
+au travail) et la reproduction (soin à domicile) est liée au
+capitalisme, mais cela n’explique pas pourquoi ces divisions suivent des
+lignes de genre. Comprendre le soin genré nécessite d’examiner la
+division sexuelle du travail préexistante, sur laquelle de nouvelles
+formes d’organisation économique se sont développées.
 
 Lorsque cela est fait, des dimensions cachées de notre monde social se
-révèlent (Leonard Barker et Allen, 1976 ; Land, 1978). Les institutions
-les plus directement impliquées dans le soin — la famille, la communauté
-et l'État — prennent une forme différente. Elles n’apparaissent plus
-comme des monolithes, solidement uniformes et asexués, existant « là-bas
-» dans le tissu social, mais comme des structures sociales qui portent
-en elles les relations de classe et de genre d’un ordre social à la fois
-capitaliste et patriarcal. « La famille », par exemple, longtemps
-considérée par les scientifiques sociaux comme la forme privatisée de
-soins nécessaire au bon fonctionnement de « l’économie », est redéfinie
-non simplement comme le cadre de la consommation de groupe dans les
-sociétés capitalistes, mais comme le lieu de lutte des genres (Hartmann,
-1981). Les individus au sein de la famille sont redéfinis à la fois
-comme membres de la famille, partageant une unité d'intérêts, et comme
-membres de catégories de genre aux intérêts différents et souvent
-concurrents. Ainsi, la vie familiale pour les hommes peut bien offrir
-une identité qui les libère de l'aliénation qu'ils éprouvent au travail.
-Pour les femmes, cette identité alternative se révèle souvent moins
-libératrice, car elle n’est atteinte qu'en se subordonnant aux besoins
-de leur famille (Foreman, 1977).
+révèlent (Leonard Barker et Allen, 1976; Land, 1978). Les institutions
+de soin — la famille, la communauté et l’État — changent. Elles
+n’apparaissent plus comme des monolithes, solidement uniformes, mais
+comme des structures sociales qui portent en elles les relations de
+classe et de genre d’un ordre social à la fois capitaliste et
+patriarcal. « La famille », par exemple, la famille, vue comme
+essentielle au bon fonctionnement économique, est aussi le lieu de lutte
+des genres (Hartmann, 1981). Les individus au sein de la famille sont
+redéfinis à la fois unis par des intérêts communs et divisés par de
+genre aux intérêts différents et souvent concurrents. Ainsi, la vie
+familiale pour les hommes peut bien offrir une identité qui les libère
+de l’aliénation qu’ils éprouvent au travail. Pour les femmes, cette
+identité alternative se révèle souvent moins libératrice, car elle n’est
+atteinte qu’en se subordonner aux besoins de leur famille (Foreman,
+1977).
 
-De même, le concept de dépendance, bien que ne portant apparemment
-aucune étiquette de genre, a un sens très différent pour les hommes et
-les femmes. La dépendance est vue comme une condition créée par les
-processus d'expansion capitaliste, dans lesquels une partie croissante
-de la population est déplacée du marché du travail pour dépendre de la
-famille et de l'État pour ses moyens de subsistance (cf. Walker, dans ce
-volume). Cependant, comme les concepts de famille et d'État auxquels il
-est crucialement lié, la nature de la dépendance ne peut être comprise
-indépendamment du système sexe-genre. Certaines catégories d'enfants
-dépendants, par exemple, reçoivent des soins et du soutien, mais
-n'offrent aucun bénéfice tangible en retour. Cependant, pour les femmes,
-l'expérience de la dépendance est plus contradictoire. Leur statut de
-dépendance — en tant que femmes au foyer, mères, filles dévouées — n'est
-pas absolu, mais conditionnel au fait qu'elles sont simultanément
-dépendues par d'autres. Ainsi, pour de nombreuses femmes, être
-dépendante équivaut non pas à recevoir des soins, mais à en donner
-(Finch et Groves, 1982). Pour les enfants, et pour les hommes, la
-dépendance économique et la pauvreté sont le coût de recevoir des soins
-: pour les femmes, la dépendance économique et la pauvreté sont le coût
-du soin.
+De même, le concept de dépendance diffère pour les hommes et les femmes.
+Bien que créé par l’expansion capitaliste, poussant certains à dépendre
+de la famille et de l’État, il est lié au système sexe-genre. Certaines
+catégories d’enfants dépendants, par exemple, reçoivent des soins sans
+rien offrir en retour. Pour les femmes, l’expérience de la dépendance
+est contradictoire : leur statut de dépendance — en tant que femmes au
+foyer, mères, filles dévouées — est conditionnel, car elles sont aussi
+des pourvoyeuses de soins. Pour les enfants, et pour les hommes, la
+dépendance économique et la pauvreté sont le coût de recevoir des
+soins : pour les femmes, c’est le coût de donner des soins.
 
-Ces deux exemples ne font qu'effleurer la complexité des processus
-impliqués dans l'organisation sociale du soin. Ce qu'ils suggèrent,
-cependant, c'est qu'une compréhension du soin nécessite une réévaluation
-fondamentale à la fois des institutions du soin (la famille, la
-communauté, l'État) et des conditions qu'elles engendrent (dépendance,
+Ces deux exemples effleurent la complexité des processus impliqués dans
+l’organisation sociale du soin. Ils suggèrent qu’une compréhension du
+soin nécessite de réévaluer les institutions du soin (la famille, la
+communauté, l’État) et des conditions qu’elles créent (dépendance,
 pauvreté, impuissance). Dans cette réévaluation, le soin apparaît non
 pas tant comme une expression des sentiments naturels de compassion et
 de connexion des femmes, comme le suggèrent les analyses psychologiques,
 mais comme une expression de la position des femmes dans un type
 particulier de société où agissent les forces jumelles du capitalisme et
-du patriarcat. Le soin, semble-t-il, décrit plus qu'un sentiment
-universel chez les femmes : il décrit le type spécifique de travail
-qu'elles accomplissent dans notre société.
+du patriarcat. Le soin, semble-t-il, décrit plus qu’un sentiment
+universel chez les femmes : il décrit le type spécifique de travail
+qu’elles accomplissent dans notre société.
 
-De quelles manières cette perspective aiguise-t-elle notre compréhension
-? Premièrement, elle suggère que le soin n'est pas simplement quelque
-chose que les femmes font pour elles-mêmes, pour réaliser leur féminité.
-C'est quelque chose que les femmes font pour les autres, pour les
-maintenir en vie. Comme l'a documenté l'étude de Margery Spring Rice sur
-les épouses de la classe ouvrière, les femmes prennent soin pour que
-leurs maris et leurs enfants puissent survivre (Spring Rice 1981, p.
-106) :
+De quelles manières cette perspective aiguise-t-elle notre
+compréhension ? Premièrement, elle suggère que le soin n’est pas
+seulement une activité féminine pour réaliser leur féminité, mais pour
+les autres, pour les maintenir en vie. Comme l’a documenté l’étude de
+Margery Spring Rice sur les épouses de la classe ouvrière, les femmes
+prennent soin pour que leurs maris et leurs enfants puissent survivre
+(Spring Rice 1981, p. 106) :
 
-> « Son mari doit être nourri car c'est de lui que dépend la première
-> nécessité, l'argent. Les enfants doivent être nourris. De même, le
+> « Son mari doit être nourri, car c’est de lui que dépend la première
+> nécessité, l’argent. Les enfants doivent être nourris. De même, le
 > mari et les enfants doivent être vêtus, non seulement suffisamment
-> chaudement, mais, pour l'école ou le travail, de manière assez
+> chaudement, mais, pour l’école ou le travail, de manière assez
 > décente. Naturellement, ils souffrent de la pauvreté du foyer, du
 > manque de nourriture, de vêtements, de chaleur et de confort
-> suffisants, mais il est indubitable que... la mère sera la première à
-> s'en passer. »
+> suffisants, mais il est indubitable que… la mère sera la première à
+> s’en passer. »
 
-La mesure dans laquelle le soin est un travail qui assure la vie, tout
-autant qu'une émotion qui exprime l'amour, est évidente dans ces
-relations où la personne qui reçoit des soins est handicapée. Le rapport
-de l'EOC de 1981 décrit les expériences de ceux qui prennent soin des
-personnes âgées et des handicapés, où « la vie » est quelque chose qui
-se marchande entre le soignant et le soigné. « C’est un soin 24 heures
-sur 24. Je fais tout pour elle, laver, cuire, repasser, faire les
-courses, cuisiner. Cela a complètement détruit ma vie. Ma vie normale
-est terminée » (EOC, 1981, p. 17).
+La mesure dans laquelle le soin est un travail vital et une émotion
+d’amour est évidente dans ces relations où le receveur est handicapé. Le
+rapport de l’EOC de 1981 décrit les expériences des soignants des
+personnes âgées et handicapées, où « la vie » est quelque chose qui se
+marchande entre le soignant et le soigné. « C’est un soin 24 heures sur
+24. Je fais tout pour elle, lavé, cuire, repasser, faire les courses,
+cuisiner. Cela a complètement détruit ma vie. Ma vie normale est
+terminée » (EOC, 1981, p. 17).
 
-Deuxièmement, comme l'indique cette étude, les relations de soin ne sont
-pas l'apanage exclusif de la famille nucléaire « en bonne santé ». Les
-femmes organisent et réorganisent leur vie pour répondre aux besoins de
-parents et de proches qui vieillissent, de maris devenus incapables et
-d'enfants handicapés qui deviennent adultes.
+Deuxièmement, cette étude montre que les relations de soin ne sont pas
+exclusives à la famille nucléaire « en bonne santé ». Les femmes
+organisent et réorganisent leur vie pour répondre aux besoins de parents
+et de proches qui vieillissent de maris devenus incapables et d’enfants
+handicapés qui deviennent adultes.
 
-Troisièmement, comme le révèlent les études empiriques sur les personnes
-âgées et handicapées, la « corvée quotidienne » du soin ne peut être
-définie de manière abstraite. Ce qui est exigé des soignants est
-déterminé par les capacités perçues du dépendant et la fourniture de
-ressources et de services en dehors de la famille. Ces deux éléments
-sont à leur tour façonnés par le climat économique et idéologique dans
-lequel les besoins des dépendants et les responsabilités des soignants
-sont définis. Ce climat, comme nous le savons, évolue rapidement, et
-avec lui, le travail que les femmes accomplissent en tant que soignantes
-pour les enfants, les maris, les malades, les handicapés et les
-personnes âgées (CIS, 1981).
+Troisièmement, les études empiriques sur les personnes âgées et
+handicapées montrent que la « corvée quotidienne » du soin ne peut être
+définie abstraitement. Les exigences pour les soignants dépendent des
+capacités perçues du dépendant et de la fourniture de ressources et de
+services externes. Ces deux éléments sont à leur tour façonnés par le
+climat économique et idéologique dans lequel les besoins des dépendants
+et les responsabilités des soignants sont définis. Ce climat évolue
+rapidement, et avec lui, le travail que les femmes en tant que
+soignantes pour les enfants, les maris, les malades, les handicapés et
+les personnes âgées (CIS, 1981).
 
-Ainsi, le soin est vécu comme une forme de travail imprécise et non
-spécifiable, dont les contours changent constamment. Puisqu'il vise,
-comme tant d'autres travaux des femmes, « à rendre cohérent ce qui est
-souvent fragmentaire et désintégré », il ne devient visible que
-lorsqu'il n'est pas accompli (Adams, 1971, p. 559 ; Graham, 1982). Comme
-le note Adrienne Rich, le soin est un travail sans fin, caractérisé par
-« son attention aux petites tâches, aux courses, au travail que d'autres
-défont constamment, aux besoins constants des petits enfants » (Rich,
-1980, p. 43).
+Ainsi, le soin est vécu comme un travail imprécis et non spécifiable,
+dont les contours changeants. Il vise, comme tant d’autres travaux des
+femmes, « à rendre cohérent ce qui est souvent fragmentaire et
+désintégré », et n’est visible que lorsqu’il n’est pas accompli (Adams,
+1971, p. 559 ; Graham, 1982). Selon Adrienne Rich, le soin est un
+travail sans fin, caractérisé par « son attention aux petites tâches,
+aux courses, au travail que d’autres défont, aux besoins constants des
+petits enfants » (Rich, 1980, p. 43).
 
-Quatrièmement, le soin n'est pas seulement une forme de travail diffuse
-et illimitée, il est aussi privatisé. Bien qu'il découle de la nature
-coopérative de la psyché des femmes, il reste généralement invisible et
-non exprimé. C'est quelque chose que les femmes font en tant
-qu'expression de leur lien avec les autres, mais c'est aussi quelque
-chose qu'elles font invariablement seules. Dans notre société, le soin
-exige l'adoption d'un mode de vie qui isole le soignant (et souvent le
-soigné) du monde extérieur. La maison, en tant que lieu où se déroulent
-la plupart des soins, devient non pas tant un refuge contre les rigueurs
-du marché du travail, mais une prison. Là encore, Margery Spring Rice
-capture les réalités du soin (1981, pp. 105, 106) :
+Quatrièmement, le soin n’est pas seulement un travail diffus et
+illimité, mais aussi privatisé. Bien qu’il découle de la nature
+coopérative des femmes, il reste invisible et non exprimé. C’est quelque
+chose que les femmes font en tant qu’expression de leur lien avec les
+autres, mais c’est aussi seul. Dans notre société, le soin exige un mode
+de vie qui isole le soignant (et souvent le soigné) du monde extérieur.
+La maison, où se déroulent la plupart des soins, devient une prison
+plutôt qu’un refuge contre le marché du travail. Margery Spring Rice
+capture les réalités du soin (1981, pp. 105, 106) :
 
-« La mère travailleuse est presque entièrement coupée de tout contact
-avec le monde extérieur à sa maison. Elle mange, dort, "se repose" sur
-le lieu de son travail, et son travail est entièrement solitaire...
-Quelles que soient les compensations émotionnelles, quelle que soit sa
-dévotion, sa famille crée son travail, et resserre les liens qui la
-lient à la sphère solitaire et étroite du "foyer". »
+> « La mère travailleuse est presque coupée de tout contact avec le
+> monde extérieur. Elle mange, dort, “se repose” sur son lieu de son
+> travail, et son travail est solitaire… Quelles que soient les
+> compensations émotionnelles, sa dévotion, sa famille crée son travail,
+> et resserre les liens avec la sphère solitaire du “foyer”. »
 
-Bien que Spring Rice décrive la situation domestique des soignants,
-échapper à l'emploi ne signifie pas nécessairement échapper à « la
-coercition de la vie privée » (Dahl et Snare, 1978). Le travail rémunéré
-d'une femme est souvent l'équivalent sur le marché de son travail non
-rémunéré à la maison. La croissance de l'emploi dans le secteur des
-services a entraîné le transfert de nombreux aspects plus spécialisés du
-soin hors du domicile, si bien que dans les métiers de secrétaire,
-d'employée de bureau, d'infirmière, d'enseignante ou de travailleuse
-sociale, la femme retrouve « son moi toujours en réponse aux autres —
-une tâche sans fin, non spécifiée, consistant à aider, nourrir, éduquer,
-soutenir » (Garrett, 1977, p. 22). En conséquence, les femmes sont
-souvent confrontées, dans leurs rôles en dehors du foyer, aux mêmes
-exigences qui les oppriment à l'intérieur de celui-ci (Adams, 1971, pp.
-558, 559) :
+Même en quittant un emploi de soignant, une femme n’échappe pas toujours
+à « la coercition de la vie privée » (Dahl et Snare, 1978). Le travail
+rémunéré peut reproduire son travail non rémunéré à la maison. La
+croissance du secteur des services a externalisé de nombreux soins
+spécialisés, si bien que dans les métiers de secrétaire, infirmière,
+enseignante ou travailleuse sociale, elle continue de répondre aux
+autres avec des tâches sans fin : aider, nourrir, éduquer, soutenir »
+(Garrett, 1977, p. 22). Ainsi, les femmes rencontrent souvent les mêmes
+exigences oppressives au travail qu’à la maison (Adams, 1971, pp. 558,
+559) :
 
-« Les engagements familiaux et professionnels intègrent tous deux l'idée
-insidieuse que les besoins, les demandes et les difficultés des autres
-devraient être la préoccupation majeure, voire exclusive, des femmes et
-que leur satisfaction doit primer sur toutes les autres exigences... »
+> « Les engagements familiaux et professionnels intègrent l’idée que les
+> besoins, les demandes et difficultés des autres devraient être la
+> préoccupation majeure des femmes et que leur satisfaction doit primer
+> sur toutes les autres exigences… »
 
-Une conception du soin en tant que travail des femmes fait clairement
-progresser notre réflexion à plusieurs égards. Nous pouvons apprécier sa
-nature économique et idéologique, en tant que travail qui, bien que
-essentiel à la survie, est invisible, dévalorisé et privatisé.
-Cependant, en insistant sur les forces structurelles à l'œuvre, une
-telle perspective peut rapidement perdre de vue la signification
-personnelle du soin. Dénué des liens émotionnels qui l'entourent, le
-soin est redéfini comme « s'occuper », « le véritable travail de
-s'occuper de ceux qui, temporairement ou définitivement, ne peuvent le
-faire eux-mêmes » (Parker, 1981, p. 17). Mais le soin est plus que cela
-: une sorte de travail domestique accompli sur des personnes. Il ne peut
-être « nettoyé » dans de telles catégories sans vider la relation entre
-le soignant et le soigné de la dimension que nous devons le plus
-affronter. Le soin ne peut être compris de manière objective et
-abstraite, mais seulement comme une expérience subjective dans laquelle
-nous sommes tous, pour le meilleur ou pour le pire, impliqués.
+Voir le soin comme un travail de femmes enrichit notre réflexion. On
+reconnaît sa nature économique et idéologique : essentiel, mais
+invisible, dévalorisé, privatisé. Pourtant, en se concentrant sur ces
+forces, on peut oublier sa signification personnelle. Réduit à
+« s’occuper » de ceux qui ne le peuvent pas (Parker, 1981), le soin est
+plus qu’un simple travail domestique sur des personnes. Il ne peut être
+classé ainsi sans perdre la dimension cruciale de la relation soignant
+soigné. Le soin est une expérience subjective, impliquant chacun de
+nous.
 
-# Conclusion
+# **Conclusion**
 
-Ce chapitre a tenté de définir les contours du concept de soin. Il a été
-suggéré que le soin définit un type spécifique de relation sociale basée
-à la fois sur l'affection et le service. De plus, ces deux transactions
-interconnectées ont été soigneusement démantelées par les scientifiques
-sociaux et reconstruites dans des domaines disciplinaires distincts,
-comme la psychologie et les politiques sociales. Dans ce processus de
-reconstruction, l'expérience quotidienne du soin en tant que travail
-d'amour a été perdue, laissée à l'écart des cadres scientifiques dans
-lesquels d'autres phénomènes sociaux semblent s'intégrer si bien.
+Ce chapitre a tenté de définir le concept de soin. Il a été suggéré que
+le soin définit un type de relation sociale basée sur l’affection et le
+service. De plus, ces deux transactions interconnectées ont été
+démantelées par les scientifiques sociaux et reconstruites dans des
+domaines distincts, comme la psychologie et les politiques sociales.
+Dans ce processus, l’expérience quotidienne du soin en tant que travail
+d’amour a été perdue, laissée à l’écart des cadres scientifiques où
+d’autres phénomènes sociaux s’intègrent.
 
-Les deux cadres identifiés dans ce chapitre sont inévitablement
-schématiques. Cependant, ils attirent notre attention sur la nature du
-matériel empirique et théorique qui aborde, bien que de manière
-indirecte, la question du soin. Au cœur de ces deux perspectives se
-trouve une distinction entre deux types de relations sociales. Ces
-relations sociales sont définies en termes de genre. L'une est
-typiquement féminine, et ici, le soin, en tant que transaction
-psychologique ou matérielle, est présent. Dans l'autre, le "soin" est
-remplacé par le "faire", un concept qui définit une relation typiquement
-masculine au monde social. À partir de ce point de départ commun, les
-perspectives divergent : les origines de la division de genre sont
-attribuées, d'un côté, aux besoins du système de personnalité et, de
-l'autre, au système socio-économique.
+Les deux cadres de ce chapitre sont schématiques, mais soulignent la
+nature du matériel empirique et théorique lié au soin, même
+indirectement. Ils distinguent deux types de relations sociales basées
+sur le genre : l’une, féminine, où le soin est une transaction
+psychologique ou matérielle, et l’autre, masculine, définie par le
+« faire ». Ces perspectives divergent : l’une attribue la division de
+genre aux besoins du système de personnalité, l’autre au système
+socio-économique.
 
-Les deux perspectives, il est soutenu, offrent une image réifiée du
-soin. Les études psychologiques nous disent ce que signifie le soin en
-termes émotionnels, mais pas en termes matériels. En négligeant la base
-matérielle du soin, aspect central pour comprendre les relations de
-genre, la perspective psychologique frôle dangereusement
-l'essentialisme, suggérant que le soin reflète la nature biologique et
+Les deux perspectives offrent une image réifiée du soin. Les études
+psychologiques définissent le soin émotionnellement, mais pas
+matériellement. En négligeant la base matérielle du soin, central pour
+comprendre les relations de genre, la perspective psychologique frôle
+l’essentialisme, suggérant que le soin reflète la nature biologique et
 les besoins psychiques des femmes. Comme le note Sayers, cette
-perspective finit par légitimer le statu quo, un statu quo fondé sur la
-glorification des relations spécifiques et particulières que les femmes
-entretiennent avec le monde social (Sayers, 1982).
+perspective légitime le statu quo, fondé sur la glorification des
+relations spécifiques des femmes avec le monde social (Sayers, 1982).
 
-Les travaux plus récents en matière de politiques sociales, notamment
-ceux initiés par des écrivaines marxistes-féministes, ont corrigé cette
-tendance en se concentrant sur le soin (et la dépendance) comme relation
-politique et économique soutenue par le système plus large des divisions
-de genre. En expliquant les avantages matériels pour l'État, ces travaux
-ont mis en lumière l'exploitation du travail des femmes sur laquelle
-repose l'organisation actuelle des soins familiaux. Ce faisant, ils ont
-tendance à minimiser les liens symboliques qui maintiennent la relation
-de soin. Les racines de la profonde résistance des gens à la
-socialisation des soins sont ainsi perdues. Qu'ils soient fournis par
-les institutions de l'État ou par des "bons voisins" dans la communauté,
-soignants et soignés reconnaissent que les services de substitution ne
-sont pas des "soins", car ils manquent des qualités mêmes d'engagement
-et d'affection qui transforment le travail de soin en une mission de
-vie, un travail en un devoir. Comme le notent Finch et Groves, une
-analyse féministe qui révèle la nature exploitative de la relation de
-soin laisse encore la question : "mettriez-vous votre sœur en
-institution ?" (Finch et Groves, 1982).
+Les recherches récentes en politiques sociales, notamment par des
+écrivaines marxistes-féministes, se concentrent sur le soin et la
+dépendance comme relations politiques et économiques influencées par les
+divisions de genre. Elles soulignent l’exploitation du travail des
+femmes dans l’organisation des soins familiaux, mais minimisent souvent
+les liens symboliques qui soutiennent ces relations. Cela néglige la
+résistance à la socialisation des soins. Que ce soit par l’État ou la
+communauté, les services de substitution manquent d’engagement et
+d’affection, essentiels au soin authentique. Comme le disent Finch et
+Groves, « mettriez-vous votre sœur en institution ? »
 
-Ces questions sans réponse sont le résultat inévitable d'une approche
-fragmentaire du soin, dans laquelle le travail et l'amour sont analysés
-séparément. Elles touchent également à un problème plus fondamental.
-Comme dans d'autres domaines du monde social, il est possible qu'en
-fragmentant l'expérience du soin en ses deux composantes, ses qualités
-les plus distinctives et les plus convaincantes aient été perdues. Bien
-que le processus de redécouverte ait commencé, il existe encore peu de
-preuves empiriques sur lesquelles fonder une perspective alternative.
+Ces questions sans réponse résultent d’une approche fragmentaire du
+soin, où le travail et l’amour sont analysés séparément. Elles touchent
+à un problème plus fondamental. Comme dans d’autres domaines sociaux, il
+est possible qu’en fragmentant l’expérience du soin en ses deux
+composantes, ses qualités distinctives et convaincantes aient été
+perdues. Bien que le processus de redécouverte ait commencé, il existe
+peu de preuves empiriques pour fonder une perspective alternative.
 
-Comme point de départ, ce chapitre a soutenu que le soin est vécu comme
-un travail d'amour. Contrairement aux contrats de travail négociés par
-le biais du lien monétaire, le soin est un rôle professionnel dont la
-forme et le contenu sont façonnés (et continuellement remaniés) par nos
-relations sociales et sexuelles intimes. Ce rôle de travail constitue
-par ailleurs la base sur laquelle les femmes négocient leur entrée dans
-ces relations intimes ainsi que dans les structures plus larges — de la
-communauté, de l'État et de l'économie — qui les entourent.
+Ce chapitre a soutenu que le soin est perçu comme un travail d’amour.
+Contrairement aux contrats de travail négociés par le lien monétaire, le
+soin est un rôle professionnel dont la forme et le contenu sont façonnés
+(et continuellement remaniés) par nos relations sociales et sexuelles
+intimes. Ce rôle constitue la base sur laquelle les femmes négocient
+leur entrée dans ces relations intimes et les structures plus larges —
+de la communauté, de l’État et de l’économie.
 
-Ce que soutient ce chapitre, c'est que l'expérience du soin est le moyen
-par lequel les femmes sont acceptées dans et se sentent appartenir au
-monde social. C'est le moyen par lequel elles sont admises à la fois
-dans le monde privé de la maison et dans le monde public du marché du
-travail. C'est à travers le soin dans un cadre informel — en tant que
-mères, épouses, filles, voisines, amies — et dans un cadre formel — en
-tant qu'infirmières, secrétaires, nettoyeuses, enseignantes,
-travailleuses sociales — que les femmes entrent et occupent leur place
-dans la société.
+Ce chapitre soutient que l’expérience du soin permet aux femmes d’être
+acceptées et de se sentir appartenir au monde social, tant dans le monde
+privé de la maison que dans le monde public du marché du travail. C’est
+à travers le soin dans un cadre informel — en tant que mères, épouses,
+filles, voisines, amies — et dans un cadre formel — en tant
+qu’infirmières, secrétaires, nettoyeuses, enseignantes, travailleuses
+sociales — que les femmes entrent et occupent leur place dans la
+société.
 
-Si cette compréhension de l'expérience du soin est correcte, alors cela
-suggère que nous devons commencer notre analyse en reconnaissant que le
-soin définit à la fois l'identité et l'activité des femmes dans la
-société occidentale. Il définit ce que cela fait de se sentir femme dans
-un ordre social dominé par les hommes et capitaliste. Les hommes
-négocient leur position sociale par ce que l'on reconnaît comme du
-"faire", basé sur la "connaissance" qui leur permet de "penser" et de
-s'engager dans des "travaux qualifiés". La position sociale des femmes
-est négociée à travers une autre forme d'activité appelée "soin", un
-soin non pas informé par la connaissance, mais par "l'intuition" grâce à
-laquelle les femmes trouvent leur voie dans des emplois "non qualifiés".
-Ainsi, le soin n'est pas quelque chose à la périphérie de notre ordre
-social ; il marque le point où les relations entre capital et genre se
-croisent. Ce devrait être le point de départ, et non la conclusion, de
-notre analyse de la société moderne. Comme le note Stacey (1981, p. 189)
-:
+Si cette compréhension du soin est correcte, il faut commencer notre
+analyse en reconnaissant que le soin définit l’identité et l’activité
+des femmes en société occidentale. Il exprime ce que ressentir femme
+dans un ordre social masculin et capitaliste. Les hommes définissent
+leur position parce que le « faire », basé sur la « connaissance » pour
+« penser » et faire des « travaux qualifiés ». Les femmes, par le
+« soin », non pas basé sur la connaissance, mais sur « l’intuition »,
+trouvent leur voie dans des emplois « non qualifiés ». Le soin n’est pas
+périphérique à notre ordre social ; il marque l’intersection entre
+capital et genre. C’est le point de départ de notre analyse de la
+société moderne. Comme le note Stacey (1981, p. 189) :
 
-> « Nous ne pourrons jamais comprendre les processus sociaux qui nous
-> entourent tant que nous nierons tacitement ou ouvertement le rôle joué
-> par ceux qui donnent et reçoivent des "soins" et des "services", les
-> victimes des processus de socialisation, les travailleurs non
-> rémunérés dans les processus de production et de reproduction. »
+> « Nous ne comprendrons jamais les processus sociaux tant que nous
+> nierons le rôle des donneurs et receveurs de “soins” et de “services”,
+> des victimes de la socialisation, et des travailleurs non rémunérés
+> dans la production et reproduction. »
+
+[\[1\]](#_ftnref1) Vous trouverez ici une traduction personelle de
+l'anglais vers le français destinée à aider les étudiant.e.s qui ont
+parfois des difficultés à lire en anglais.

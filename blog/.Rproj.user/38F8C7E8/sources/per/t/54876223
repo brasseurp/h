@@ -3,7 +3,7 @@
     "path": "~/Documents/GitHub/h/blog/posts/travailler-amour/tradGraham.qmd",
     "project_path": "posts/travailler-amour/tradGraham.qmd",
     "type": "quarto_markdown",
-    "hash": "3307542057",
+    "hash": "3412842199",
     "contents": "",
     "dirty": false,
     "created": 1729395535416.0,
@@ -17,16 +17,16 @@
         "Source": "Source",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "cursorPosition": "0,0",
-        "scrollLine": "0",
-        "rmdVisualModeLocation": "6640:978.888916015625"
+        "cursorPosition": "15,0",
+        "scrollLine": "597",
+        "rmdVisualModeLocation": "163:234.4444580078125"
     },
     "folds": "",
-    "lastKnownWriteTime": 1729396578,
+    "lastKnownWriteTime": 1729403378,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1729396578730,
+    "last_content_update": 1729403378621,
     "read_only": false,
     "read_only_alternatives": []
 }

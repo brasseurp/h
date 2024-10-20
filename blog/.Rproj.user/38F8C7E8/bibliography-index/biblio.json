@@ -1,0 +1,32 @@
+{
+    "sources": [
+        {
+            "DOI": "10.7202/057628ar",
+            "ISSN": "1705-9240, 0838-4479",
+            "URL": "http://id.erudit.org/iderudit/057628ar",
+            "author": [
+                {
+                    "family": "Cresson",
+                    "given": "Geneviève"
+                }
+            ],
+            "container-title": "Recherches féministes",
+            "id": "cressonSanteProductionInvisible2005",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        2005,
+                        4
+                    ]
+                ]
+            },
+            "note": "12 citations (Crossref/DOI) [2024-09-30]",
+            "page": "31-44",
+            "title": "La santé, production invisible des femmes",
+            "type": "article-journal",
+            "volume": "4"
+        }
+    ],
+    "project_biblios": []
+}
