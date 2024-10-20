@@ -2,10 +2,11 @@ project:
   type: website
 
 website:
-  title: "Blog de Pierre Brasseur"
+  title: "Blog de Pierre Brasseur: sociologue"
   navbar:
     right:
       - about.qmd
+      - /h/index.html
       - icon: github
         href: https://pbrasseur.github.com/
       - icon: twitter
