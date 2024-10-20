@@ -8,10 +8,15 @@ image: "images.jpg"
 
 Aujourd'hui, j'ai participé au cours d'Anthropologie du travail, animé
 par Kostia Lennas. J'y ai présenté ma perspective sur la notion de
-"travail d'amour", en m'appuyant sur deux textes : celui de Hilary
+"travail d'amour", en m'appuyant sur deux textes : celui de [Hilary
 Graham, « Caring: A Labour of Love » dans l'ouvrage *A Labour of Love*
-(1983), ainsi que l'article de G. Cresson, « La santé, production
-invisible des femmes », publié en 1991 dans *Recherches féministes*.
+(1983)](Graham1982), ainsi que l'article de [G. Cresson, « La santé,
+production invisible des femmes », publié en 1991 dans *Recherches
+féministes*](/1991Cresson.pdf)[^1].
+
+[^1]: Vous trouverez ici une traduction personelle de l'anglais vers le
+    français destinée à aider les étudiant.e.s qui ont parfois des
+    difficultés à lire en anglais.
 
 Je vous livre ici le texte de mon intervention :
 
@@ -27,7 +32,7 @@ Je vous livre ici le texte de mon intervention :
 > **travail d'amour** dans les sphères privée et publique, nous pouvons
 > mieux comprendre son rôle central et les inégalités qui en découlent.
 
-### 1. Le "travail d'amour" dans la sphère privée : invisibilité et dévalorisation
+# 1. Le "travail d'amour" dans la sphère privée : invisibilité et dévalorisation
 
 Dans le contexte domestique, le **travail d'amour** recouvre l’ensemble
 des tâches liées à l’entretien du foyer, à l’éducation des enfants et au
@@ -36,7 +41,7 @@ bien que fondamentales, sont souvent perçues comme une extension
 naturelle du rôle féminin, et non comme un véritable travail méritant
 reconnaissance ou rémunération.
 
-#### Exemple : Soins aux enfants
+## Exemple : Soins aux enfants
 
 Une mère qui soigne un enfant malade, qui prépare des repas équilibrés
 ou qui veille à la prise de médicaments réalise un travail qui nécessite
@@ -50,7 +55,7 @@ comme une contribution réelle à la société" (Cresson, 1991). Ce déni de
 la valeur économique du **travail d'amour** conduit à sa marginalisation
 dans les discussions sur le travail et les droits économiques.
 
-#### Conséquence : La charge mentale
+## Conséquence : La charge mentale
 
 La **charge mentale** est une autre dimension du **travail d'amour** que
 **Cresson** décrit comme étant souvent ignorée. Elle fait référence à la
@@ -61,7 +66,7 @@ travail ne soit pas toujours visible ou valorisé, il représente une
 charge constante pour les femmes et renforce l’inégalité de genre dans
 la répartition des tâches domestiques.
 
-### 2. Le "travail d'amour" dans les professions du care : sous-rémunération et dévalorisation
+# 2. Le "travail d'amour" dans les professions du care : sous-rémunération et dévalorisation
 
 Le **travail d'amour** ne se limite pas à la sphère familiale. Il
 s'étend également aux professions du **care**, telles que l’infirmerie,
@@ -70,20 +75,32 @@ ces professions, les femmes effectuent un travail essentiel, mais qui
 reste sous-payé et dévalorisé, car il est considéré comme une extension
 naturelle de leur rôle domestique.
 
-#### Exemple : Infirmières et travailleuses sociales
+## Exemple : Infirmières et travailleuses sociales
 
 Dans les professions de soin, les femmes apportent non seulement des
 soins physiques, mais aussi un soutien émotionnel aux patients ou aux
-clients. Comme l’explique **Hilary Graham** dans son ouvrage **"Caring:
-A Labour of Love"**, "le travail d'amour dans les professions de soin va
-au-delà des simples tâches techniques ; il implique une dimension
-émotionnelle qui est souvent considérée comme allant de soi, ce qui
-renforce la dévalorisation de ces professions" (Graham, 1983). Cette
-dimension émotionnelle, associée à des compétences comme l’écoute et
-l’empathie, est pourtant essentielle pour le bien-être des personnes
+clients. Comme l’explique **Hilary Graham**[^2] dans son ouvrage
+**"Caring: A Labour of Love"**, "le travail d'amour dans les professions
+de soin va au-delà des simples tâches techniques ; il implique une
+dimension émotionnelle qui est souvent considérée comme allant de soi,
+ce qui renforce la dévalorisation de ces professions" (Graham, 1983).
+Cette dimension émotionnelle, associée à des compétences comme l’écoute
+et l’empathie, est pourtant essentielle pour le bien-être des personnes
 prises en charge.
 
-#### Conséquence : Précarité économique
+[^2]: Il est possible aussi de se référer à THE CONCEPT OF CARING IN
+    FEMINIST RESEARCH: THE CASE OF DOMESTIC SERVICE
+
+    Hilary Graham
+
+    Sociology
+
+    [Vol. 25, No. 1 (February
+    1991)](https://www.jstor.org/stable/i40108636), pp. 61-78 (18 pages)
+
+    Published By: Sage Publications, Ltd.
+
+## Conséquence : Précarité économique
 
 Les femmes travaillant dans ces secteurs sont souvent mal rémunérées,
 malgré l’importance sociale de leur travail. **Geneviève Cresson**
@@ -95,7 +112,7 @@ une situation de précarité économique, car leur travail est
 systématiquement dévalorisé, même s’il est crucial pour le
 fonctionnement de la société.
 
-### 3. Dépendance et précarité économiques
+# 3. Dépendance et précarité économiques
 
 Le **travail d'amour** impacte également l'indépendance économique des
 femmes. En assumant des responsabilités non rémunérées ou
@@ -104,7 +121,7 @@ choix professionnels, contraintes de réduire leur temps de travail ou
 d’accepter des emplois précaires pour concilier vie familiale et
 professionnelle.
 
-#### Exemple : Femmes à temps partiel
+## Exemple : Femmes à temps partiel
 
 De nombreuses femmes, en raison de leur rôle de soignantes, se
 retrouvent à travailler à temps partiel, limitant ainsi leurs
@@ -118,7 +135,7 @@ femmes atteignent l'âge de la retraite, car leurs contributions limitées
 à des systèmes de pensions conduisent à des revenus de retraite
 insuffisants, exacerbant leur précarité économique.
 
-### 4. Revalorisation du "travail d'amour" : vers des solutions
+# 4. Revalorisation du "travail d'amour" : vers des solutions
 
 Il est essentiel de reconnaître la valeur du **travail d'amour** et de
 mettre en place des politiques visant à le revaloriser, tant dans la
@@ -126,7 +143,7 @@ sphère domestique que professionnelle. Plusieurs pistes peuvent être
 envisagées pour corriger les inégalités et améliorer la situation des
 femmes qui assument ces responsabilités.
 
-#### Reconnaissance économique et sociale
+## Reconnaissance économique et sociale
 
 Des mesures politiques pourraient être adoptées pour mieux reconnaître
 le **travail d'amour**. Par exemple, en introduisant des aides
@@ -135,7 +152,7 @@ des professions du **care**. **Geneviève Cresson** appelle à une
 "reconnaissance publique et financière des soins non rémunérés pour
 alléger la charge pesant sur les femmes" (Cresson, 1991).
 
-#### Partage égalitaire des tâches
+## Partage égalitaire des tâches
 
 Il est également crucial de promouvoir un partage plus égalitaire des
 responsabilités de soins entre hommes et femmes. **Hilary Graham**
@@ -146,7 +163,7 @@ part à ces tâches pour alléger la charge qui repose sur les femmes"
 mentale des femmes, mais aussi d’améliorer l’équilibre entre travail
 professionnel et tâches domestiques.
 
-#### Politiques de soutien aux aidants
+## Politiques de soutien aux aidants
 
 Les politiques publiques pourraient également inclure des **congés
 parentaux** ou **congés pour aidants**, bien rémunérés et accessibles
@@ -154,7 +171,7 @@ aux deux sexes, pour permettre aux aidants de concilier plus facilement
 vie professionnelle et responsabilités familiales sans subir de
 conséquences financières négatives.
 
-### Conclusion
+# Conclusion
 
 Le **travail d'amour** est un élément central mais largement invisible
 du fonctionnement social. Il repose sur une division genrée du travail
