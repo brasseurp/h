@@ -1,0 +1,32 @@
+project:
+  type: website
+  output-dir: docs
+
+
+
+website:
+  title: "Pierre Brasseur, sociologue"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Accueil
+      - about.qmd
+      - href: enseignements/index.qmd
+        text: Enseignements
+      - href: recherche/index.qmd
+        text: Recherche
+      - href: publications/index.qmd
+        text: Publications
+      - href: blog/index.qmd
+        text: Blog
+      - href: medias.qmd
+        text: Médias
+        
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+

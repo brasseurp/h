@@ -19,6 +19,8 @@ website:
         text: Publications
       - href: blog/index.qmd
         text: Blog
+      - href: medias.qmd
+        text: Médias
         
 format:
   html:
