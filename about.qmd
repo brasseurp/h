@@ -2,6 +2,9 @@
 title: "A propos"
 ---
 
+**Docteur Pierre Brasseur : Sociologue & Professeur à l'Université Libre
+de Bruxelles**
+
 Pierre Brasseur est sociologue et professeur à l'Université Libre de
 Bruxelles. Ses recherches se concentrent sur plusieurs domaines,
 notamment le genre, la sexualité, le handicap et les méthodologies de
@@ -20,10 +23,10 @@ recherche et à la manière dont les catégories sociales, comme le
 handicap ou le genre, influencent les trajectoires professionnelles et
 les dynamiques de pouvoir.
 
-**Docteur Pierre Brasseur : Sociologue & Professeur à l'Université Libre
-de Bruxelles**
+[Google
+Scholar](https://scholar.google.fr/citations?user=O4AvHvkAAAAJ&hl=fr)
 
-### Domaines d'expertise :
+# Domaines d'expertise :
 
 -   Genre et sexualité
 
@@ -35,7 +38,7 @@ de Bruxelles**
 
 -   Travail sexuel en ligne
 
-### Parcours académique :
+# Parcours académique :
 
 -   **Professeur** à l'Université Libre de Bruxelles
 
@@ -469,3 +472,129 @@ recherche. Ses contributions comprennent :
 -   **2016** : *Comment se constitue la cause handicap et sexualité ?
     Une approche sociohistorique*, Séminaire *Sociohistoire du
     handicap*, EHESS.
+
+### **Activité éditoriale**
+
+Pierre Brasseur est activement impliqué dans des activités éditoriales
+et d'évaluation dans le domaine des sciences sociales :
+
+-   **Depuis 2022** : Membre du comité de rédaction de la revue
+    *Tracés*.
+
+-   **Depuis 2015** : Membre du comité de rédaction de la revue
+    *Socio-logos*.
+
+-   **2015-2020** : Rédacteur en chef de la revue *Socio-logos*.
+
+### **Activités d’évaluation**
+
+Pierre Brasseur participe également à l'évaluation d'articles et de
+projets de recherche pour plusieurs revues scientifiques et
+institutions. Parmi celles-ci :
+
+-   **Articles et livres** :
+
+    -   *Genre, sexualité et société*
+
+    -   *Le Journal des anthropologues*
+
+    -   *Socio-logos*
+
+    -   *Disability and Society*
+
+    -   *Revue française de socioéconomie*
+
+    -   *L’Harmattan*
+
+    -   *Les Carnets de la consommation*
+
+    -   *Questions d’économies de la santé*
+
+    -   *Tracés - Revues de sciences sociales*
+
+    -   *Travail et emploi*
+
+    -   *L’Homme et la société*
+
+    -   *Revue d’économie régionale et urbaine*
+
+    -   *Santé publique*
+
+    -   *Actes de la recherche en sciences sociales*
+
+    -   *Terrains & Travaux*
+
+    -   *Revue française des affaires sociales*
+
+-   **Projets de recherche** :
+
+    -   Évaluations pour l'IRESP (4 projets)
+
+    -   Thèses CIFRE (1 projet)
+
+    -   Évaluations pour Open-Editions (1 projet)
+
+### **Autres activités**
+
+### **Langues et outils**
+
+-   **Langues** :
+
+    -   Français (langue maternelle)
+
+    -   Anglais (lu, écrit, parlé)
+
+    -   Espagnol (lu, parlé)
+
+-   **Compétences méthodologiques** :
+
+    -   Conduite d'entretiens (récits de vie, informatifs,
+        semi-directifs) : environ 300 entretiens réalisés.
+
+    -   Recherche, traitement et exploitation de sources documentaires
+        et d'archives.
+
+    -   Observation participante, éthique de la recherche, droit des
+        enquêtés et de l’enquêteur.
+
+    -   Ethnographie d’internet.
+
+    -   Méthodes comparatives internationales.
+
+    -   Méthodes qualitatives et enquêtes mixtes.
+
+    -   Techniques d’analyse des réseaux, questionnaires (LimeSurvey).
+
+    -   Exploitation de bases de données secondaires.
+
+-   **Outils informatiques** :
+
+    -   Microsoft Office, Zotero, Endnote, LimeSurvey, Pajek, WordPress,
+        SAS.
+
+### **Direction de mémoires et participation à des jurys**
+
+-   **Direction de mémoires** :
+
+    -   *Tiffany Bailliez* : *La santé sexuelle des femmes aveugles*,
+        École des sages-femmes de Tours, 2017.
+
+    -   *Léa Pons* : *Couple et EHPAD*, Master 1, Université de
+        Grenoble, 2022.
+
+    -   *Carine Pignard* : *Solitude et vieillesse*, Master 1,
+        Université de Grenoble, 2022.
+
+    -   *Mathilde Ferrary* : *L’autisme comme problème public*, Master
+        2, Sciences Po Grenoble, 2022.
+
+-   **Membre de jury de thèse** :
+
+    -   *Noémie Rimbourg* : *L’autonomie à l’épreuve du handicap*,
+        Université Saint-Louis Bruxelles.
+
+-   **Autres activités** :
+
+    -   Enquêteur pour l’IRDES (2019-2023).
+
+    -   Participation à des jurys pour des mémoires et thèses.
