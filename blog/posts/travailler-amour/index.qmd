@@ -5,216 +5,163 @@ date: "2024-10-20"
 categories: [sociologie, amour, travail, care]
 image: "images.jpg"
 bibliography: references.bib
+format: pdf
 ---
 
 Aujourd'hui, j'ai participé au cours d'Anthropologie du travail, animé
 par Kostia Lennas. J'y ai présenté ma perspective sur la notion de
 "travail d'amour", en m'appuyant sur deux textes : celui de [Hilary
-Graham, « Caring: A Labour of Love » dans l'ouvrage *A Labour of Love*
+Graham, « Caring: A Labour of Love » dans l'ouvrage A Labour of Love
 (1983)](Graham1982), ainsi que l'article de [G. Cresson, « La santé,
-production invisible des femmes », publié en 1991 dans *Recherches
-féministes*](/1991Cresson.pdf)[^1].
+production invisible des femmes », publié en 1991 dans Recherches
+féministes](/1991Cresson.pdf)[^1].
 
-[^1]: Vous trouverez ici une traduction personelle de l'anglais vers le
-    français destinée à aider les étudiant.e.s qui ont parfois des
-    difficultés à lire en anglais.
+[^1]: Vous trouverez [ici](/tradGraham.qmd) une traduction personelle de
+    l'anglais vers le français destinée à aider les étudiant.e.s qui ont
+    parfois des difficultés à lire en anglais
 
 Je vous livre ici le texte de mon intervention :
 
-Le **"travail d'amour"**[^2] est un concept qui englobe l'ensemble des
-soins non rémunérés, souvent effectués par les femmes, et qui associe
-des dimensions émotionnelles, telles que l'amour et l'attachement, à des
-tâches concrètes, comme les soins physiques ou le soutien moral. Ces
-activités, bien qu’essentielles au bien-être des individus et au bon
-fonctionnement de la société, sont souvent invisibilisées et
-sous-évaluées, notamment parce qu’elles se déroulent principalement dans
-la sphère domestique et privée.
+Le "travail d'amour"[^2] désigne les soins non rémunérés, souvent
+réalisés par les femmes, et mêle des aspects émotionnels (comme l'amour
+et l'attachement) à des tâches concrètes (soins physiques, soutien
+moral). Bien qu'indispensables au bien-être des individus et à la
+société, ces activités sont souvent invisibles et sous-évaluées, car
+elles se déroulent principalement dans la sphère domestique.
 
-[^2]:
-    1.  **Hochschild, A. R. (1983). *The Managed Heart:
-        Commercialization of Human Feeling*. University of California
-        Press.**
+[^2]: Hochschild (1983) parle du "travail émotionnel", c'est-à-dire les
+    efforts pour contrôler ses émotions. Il s'agit de l'effort, pas du
+    résultat. Ce travail est courant dans les soins aux autres, souvent
+    liés aux rôles des femmes. Illouz (2007) explique que les émotions,
+    autrefois naturelles, sont devenues mesurables et exploitées dans
+    l'économie. Les soins affectifs sont ainsi marchandisés. Federici
+    (2012) montre que le travail domestique non payé, surtout fait par
+    les femmes, est essentiel pour l'économie, mais pas reconnu.
+    Gilligan (1982) propose une "éthique du care", valorisant les
+    relations et les soins, souvent associés aux femmes. hooks (2000)
+    voit l'amour comme un engagement volontaire, une action consciente.
+    Cela rejoint l'idée du travail d'amour non rémunéré. Hardt et Negri
+    (2009) parlent du "travail affectif", qui crée des sentiments comme
+    le bien-être, essentiel dans les soins. Folbre (2001) souligne la
+    valeur économique des soins non payés, motivés par l'amour ou le
+    devoir, souvent invisibles dans l'économie.
 
-        -   **Définition :** Hochschild introduit le concept de
-            **travail émotionnel**, qui fait référence aux efforts
-            déployés pour modifier ou réguler ses propres émotions. Elle
-            précise que cela concerne davantage l'effort que le résultat
-            final : *"Emotion work refers to the effort —the act of
-            trying— and not to the outcome, which may or may not be
-            successful."* (p. 7). Ce travail émotionnel se retrouve dans
-            le **travail d'amour**, notamment dans le soin aux autres,
-            souvent associé aux rôles genrés féminins.
+Des sociologues comme Hilary Graham [@grahamCaringLabourLove1983;
+@grahamConceptCaringFeminist1991]et Geneviève Cresson
+[@cressonSanteProductionInvisible2005],ont analysé ce travail sous
+l'angle des inégalités de genre. Graham explique que le soin est vu
+comme une extension naturelle du rôle féminin, ce qui masque sa vraie
+valeur économique et sociale. Cresson, dans son article "La santé,
+production invisible des femmes", souligne que les femmes minimisent
+souvent leur travail de soin en le considérant comme un devoir naturel,
+et non un travail légitime.
 
-    2.  **Illouz, E. (2007). *Cold Intimacies: The Making of Emotional
-        Capitalism*. Polity Press.**
+Le "travail d'amour" dans la sphère privée représente un ensemble de
+tâches essentielles, comme la gestion du foyer, l'éducation des enfants,
+le soin aux membres de la famille malades ou dépendants, et le soutien
+émotionnel quotidien. Ces activités, bien qu'indispensables pour le bon
+fonctionnement de la société, sont souvent dévalorisées et
+invisibilisées. Cette invisibilité résulte d’une perception ancrée dans
+la division traditionnelle des genres, où les femmes sont censées être
+naturellement responsables de ces tâches.
 
-        -   **Perspective :** Illouz examine comment les émotions,
-            autrefois perçues comme naturelles et spontanées, sont
-            devenues des entités mesurables et marchandisées dans
-            l'économie moderne. Cela éclaire le concept de travail
-            d'amour en montrant comment les émotions, et en particulier
-            les soins affectifs, peuvent être exploités dans des
-            contextes économiques et sociaux.
+## L’inégalité des charges domestiques et de soin
 
-    3.  **Federici, S. (2012). *Revolution at Point Zero: Housework,
-        Reproduction, and Feminist Struggle*. PM Press.**
+Les statistiques illustrent cette inégalité. Selon une étude de l'INSEE
+en 2010, les femmes passent en moyenne 3h26 par jour à réaliser des
+tâches domestiques (comme la préparation des repas, le nettoyage, et la
+gestion des enfants), tandis que les hommes y consacrent environ 2
+heures. Cet écart montre que les femmes assument une part
+disproportionnée du travail domestique, qui reste souvent non rémunéré
+et non reconnu.
 
-        -   **Perspective :** Federici souligne l'importance du
-            **travail reproductif** non rémunéré, réalisé
-            majoritairement par les femmes, qui est fondamental pour
-            soutenir toute économie : *"Reproducing human beings... is
-            the foundation of every economic and political system, and
-            the unremunerated work of women is what keeps the world
-            moving."* (p. 2). Cela correspond directement à la notion de
-            **travail d'amour**, où les femmes fournissent des soins
-            essentiels sans reconnaissance économique.
+Ce déséquilibre se reflète aussi dans le rôle d’aidant familial. Une
+enquête de la DREES en 2015 révèle que 60% des aidants familiaux sont
+des femmes, et qu’elles consacrent en moyenne 20 heures par semaine à
+ces soins, soit l’équivalent d’un mi-temps professionnel non rémunéré.
+Ces aidants prennent en charge des parents vieillissants, des proches
+malades ou handicapés, assurant des soins cruciaux qui ne sont pas pris
+en compte dans les politiques de travail ou les rémunérations.
 
-    4.  **Gilligan, C. (1982). *In a Different Voice: Psychological
-        Theory and Women's Development*. Harvard University Press.**
+## L'exemple du congé parental et du congé parental corona en Belgique
 
-        -   **Concept :** Gilligan propose une théorie de l'**éthique du
-            care**, qui met en avant les relations, l'empathie et la
-            responsabilité envers les autres comme des valeurs
-            primordiales, souvent associées aux femmes. Bien que ne
-            mentionnant pas explicitement le **travail d'amour**, son
-            concept d'éthique du care s'y relie en soulignant
-            l'importance des soins dans le développement moral et
-            social.
+La répartition inégale des responsabilités familiales et domestiques est
+également visible dans l'utilisation des dispositifs comme le congé
+parental. En Belgique, durant la pandémie de COVID-19, le congé parental
+corona a été introduit pour permettre aux parents de mieux gérer les
+fermetures d’écoles et les confinements. Toutefois, en juin 2020, à son
+pic d’utilisation, 70% des personnes ayant recours à ce congé étaient
+des femmes, ce qui reflète la tendance plus générale des femmes à
+sacrifier leur carrière professionnelle pour assumer des responsabilités
+domestiques. Le congé parental corona, pris entre deux et trois fois
+plus par les femmes, était majoritairement utilisé sous forme de
+réduction des heures de travail (diminution des prestations d'1/5).
 
-    5.  **hooks, b. (2000). *All About Love: New Visions*. William
-        Morrow.**
+Comparativement, le congé parental ordinaire en Belgique reste également
+inégalement distribué : en 2018 et 2019, environ 69% des bénéficiaires
+étaient des femmes. Bien que ces dispositifs soient conçus pour
+favoriser un meilleur équilibre entre vie professionnelle et familiale,
+leur utilisation montre que les femmes continuent d'assumer l'essentiel
+des responsabilités familiales, souvent au détriment de leur carrière et
+de leur bien-être professionnel.
 
-        -   **Définition :** hooks aborde l'amour en tant qu'action et
-            engagement volontaire, affirmant que *"Love is as love does.
-            Love is an act of will—namely, both an intention and an
-            action."* (p. 4). Cette définition montre que le **travail
-            d'amour** n'est pas uniquement émotionnel mais inclut une
-            action consciente et intentionnelle, ce qui résonne dans le
-            contexte des soins non rémunérés.
+## Invisibilité et dévalorisation du travail domestique
 
-    6.  **Hardt, M., & Negri, A. (2009). *Commonwealth*. Harvard
-        University Press.**
+Geneviève Cresson, dans son article "La santé, production invisible des
+femmes", met en lumière cette invisibilité en expliquant que le travail
+domestique et de soin est perçu comme une extension naturelle du rôle
+féminin, plutôt que comme une contribution légitime à la société. Elle
+souligne que les femmes elles-mêmes tendent à minimiser ces activités,
+les considérant comme un "devoir naturel" plutôt qu'un véritable
+travail. Cela contribue à la dévalorisation économique et sociale du
+travail d'amour, qui n'est ni reconnu, ni rémunéré, malgré son
+importance.
 
-        -   **Définition :** Hardt et Negri décrivent le **travail
-            affectif** comme un travail qui produit ou manipule des
-            affects, tels que le bien-être, la satisfaction ou
-            l'enthousiasme : *"Affective labor, then, is labor that
-            produces or manipulates affects such as a feeling of ease,
-            well-being, satisfaction, excitement, or passion."* (p.
-            132). Ce concept éclaire la dimension émotionnelle du
-            travail d'amour, en particulier dans les relations de soin
-            et de soutien.
+Cresson met en avant le fait que les tâches domestiques et de soin, bien
+que vitales pour le bien-être des individus et le fonctionnement de la
+société, sont souvent perçues comme une extension naturelle du rôle
+féminin, ancrées dans la sphère privée. Cette perception contribue à
+leur invisibilité, aussi bien dans la reconnaissance publique que dans
+l'évaluation économique. En effet, la société valorise principalement le
+travail rémunéré dans la sphère publique, laissant le travail domestique
+et émotionnel sans véritable reconnaissance.
 
-    7.  **Folbre, N. (2001). *The Invisible Heart: Economics and Family
-        Values*. The New Press.**
+Cette invisibilité renforce les inégalités de genre. Le travail d'amour,
+principalement réalisé par les femmes, n'est pas rémunéré et rarement
+pris en compte dans les analyses économiques et politiques. Il est perçu
+comme une obligation morale imposée par les normes de genre, et non
+comme une compétence ou une contribution à valoriser. Par exemple, une
+mère qui éduque ses enfants ou qui fournit un soutien émotionnel
+constant à son conjoint est souvent vue comme accomplissant un devoir
+naturel. Ces tâches, pourtant essentielles, sont réduites à des actes
+d'amour, plutôt qu'à un travail réel nécessitant reconnaissance et
+contrepartie.
 
-        -   **Perspective :** Folbre explore la valeur économique des
-            soins non rémunérés, souvent motivés par l'amour ou un sens
-            du devoir, et explique comment ce travail reste invisible
-            dans les discussions économiques. Ce point de vue aligne le
-            **travail d'amour** avec les soins non rémunérés, tout en
-            plaidant pour leur reconnaissance en tant que travail
-            légitime.
-
-Dans les travaux de sociologues[^3] comme **Hilary Graham**
-[@grahamCaringLabourLove1983; @grahamConceptCaringFeminist1991] et
-**Geneviève Cresson**, le **travail d'amour** est analysé sous l'angle
-des inégalités de genre et de l’économie des soins. Hilary Graham, par
-exemple, souligne que le soin est perçu comme une extension naturelle du
-rôle féminin, rendant invisible sa véritable valeur économique et
-sociale. Geneviève Cresson, dans son article **"La santé, production
-invisible des femmes"**[@cressonSanteProductionInvisible2005], met en
-lumière l’invisibilité du travail de soin dans la gestion de la santé
-familiale, souvent minimisée par les femmes elles-mêmes qui le
-considèrent comme un devoir naturel plutôt qu'un travail légitime.
-
-[^3]: Le "travail d'amour" est un concept multidimensionnel qui englobe
-    diverses interprétations selon les domaines d'étude. En psychologie,
-    il désigne l'effort conscient pour maintenir une relation amoureuse.
-    La sociologie l'associe aux tâches non rémunérées effectuées par
-    devoir ou affection. La philosophie y voit une quête de croissance
-    personnelle, tandis que dans le monde professionnel, il représente
-    une carrière motivée par la passion. Certaines traditions
-    spirituelles l'interprètent comme une pratique de compassion, et
-    l'approche féministe l'utilise pour critiquer la sous-évaluation du
-    travail domestique et émotionnel. Ces perspectives variées
-    soulignent la complexité et l'importance du "travail d'amour" dans
-    différentes sphères de la vie humaine, de l'intime au sociétal.
-
-# Le "travail d'amour" dans le privée : invisibilité et dévalorisation
-
-Dans le contexte domestique, le **travail d'amour** englobe l'ensemble
-des tâches essentielles à la gestion du foyer, à l'éducation des enfants
-et au soutien émotionnel des membres de la famille. Il inclut des
-activités comme la préparation des repas, l'entretien du domicile, le
-soin aux enfants malades, et la gestion de la santé et du bien-être
-familial.
-
-Pourtant, comme l’explique Geneviève Cresson dans son article **"La
-santé, production invisible des femmes"**, ce travail est largement
-dévalorisé et invisibilisé, car il est souvent perçu comme une extension
-naturelle du rôle féminin.
-
-Les chiffres parlent d'eux-mêmes : selon une étude de l'INSEE en 2010,
-les femmes consacrent en moyenne 3h26 par jour aux tâches domestiques,
-dont les soins aux enfants et aux adultes dépendants, contre 2h pour les
-hommes. Plus spécifiquement, une enquête de la DREES en 2015 révèle que
-60% des aidants familiaux sont des femmes, et qu'elles y consacrent en
-moyenne 20 heures par semaine, soit l'équivalent d'un mi-temps
-professionnel non rémunéré."
-
-En Belgique, l’usage du congé parental corona fut conjoncturel, et cette
-mesure fut utilisée par 68 992
-personnes à son pic en juin 2020. Il fut pris entre 2 et 3 fois plus par
-les femmes et principalement
-sous la forme d’une diminution des prestations d'1/5. Si l’on compare
-l’utilisation du congé
-parental ordinaire et du congé parental corona en 2020, on constate que
-celle du congé parental
-corona était légèrement moins égalitaire que celle du congé parental
-corona. En 2020 au total,
-70% des personnes en congé parental corona étaient des femmes, contre
-69% et 68% des
-personnes en congé parental ordinaire respectivement en 2018 et 2019.
-
-Cresson souligne que ces activités, bien qu’indispensables à la vie
-quotidienne et au bien-être de la société, sont rarement reconnues comme
-un travail véritable qui mériterait rémunération ou reconnaissance
-sociale. Elle écrit que **"ces tâches domestiques sont considérées comme
-des prolongements naturels du rôle féminin, et non comme une
-contribution légitime au fonctionnement social"** (Cresson, 1991, p.
-35)​(1991Cresson). Cette perception ancrée dans la division
-traditionnelle des genres relègue ces activités à la sphère privée, où
-elles échappent à la visibilité et à la valorisation économique.
-
-Cette invisibilisation renforce les **inégalités de genre**, en
-particulier dans la mesure où ce travail est souvent non rémunéré et
-largement absent des analyses économiques et politiques. Le **travail
-d'amour** des femmes, dans ce cadre, est donc perçu non pas comme une
-compétence ou une contribution nécessitant une reconnaissance ou une
-contrepartie, mais comme une **obligation morale** découlant des normes
-genrées. Par exemple, une mère qui assure l'éducation de ses enfants ou
-fournit un soutien émotionnel continu à son conjoint et à ses proches
-voit souvent ces tâches perçues comme des actes d'amour et non comme un
-travail à part entière.
+Cette invisibilisation est particulièrement problématique, car elle
+enferme les femmes dans une division du travail genrée, où leurs efforts
+sont considérés comme secondaires et non productifs. Les contributions
+féminines dans la sphère domestique ne sont pas reconnues comme des
+compétences essentielles à la société, ce qui maintient et perpétue les
+inégalités entre hommes et femmes, tant dans la reconnaissance sociale
+que dans l'accès aux ressources économiques.
 
 ## Exemple : Soins aux enfants
 
-Effectivement, dans son article **"La santé, production invisible des
-femmes"**, Geneviève Cresson démontre que le travail des mères,
-notamment celui lié à la santé des membres de la famille, est souvent
-considéré comme allant de soi, car il est perçu comme une manifestation
-naturelle de l’amour maternel. Comme vous le soulignez, les tâches
-telles que soigner un enfant malade, préparer des repas équilibrés ou
-veiller à la prise de médicaments demandent des compétences, de
-l’attention et du temps. Pourtant, ce travail est largement dévalorisé,
-car il est profondément ancré dans une conception genrée du soin, où le
-rôle des femmes est réduit à un acte d’amour plutôt qu’à un travail
-légitime nécessitant des compétences.
+Effectivement, dans son article "La santé, production invisible des
+femmes", Geneviève Cresson démontre que le travail des mères, notamment
+celui lié à la santé des membres de la famille, est souvent considéré
+comme allant de soi, car il est perçu comme une manifestation naturelle
+de l’amour maternel. Comme vous le soulignez, les tâches telles que
+soigner un enfant malade, préparer des repas équilibrés ou veiller à la
+prise de médicaments demandent des compétences, de l’attention et du
+temps. Pourtant, ce travail est largement dévalorisé, car il est
+profondément ancré dans une conception genrée du soin, où le rôle des
+femmes est réduit à un acte d’amour plutôt qu’à un travail légitime
+nécessitant des compétences.
 
-Cresson explique que **"les femmes, dans leurs témoignages, minimisent
+Cresson explique que "les femmes, dans leurs témoignages, minimisent
 leur rôle dans le soin, le considérant souvent comme un devoir naturel
-plutôt que comme une contribution réelle à la société"** (Cresson, 1991,
+plutôt que comme une contribution réelle à la société" (Cresson, 1991,
 p. 33)​(1991Cresson). Cette perception, selon elle, découle d'une
 socialisation qui fait du travail domestique un domaine féminin, lié à
 l'affectivité plutôt qu'à une véritable valeur économique. Par
@@ -226,157 +173,155 @@ et contribution à l’économie formelle.
 Un exemple frappant de cette invisibilisation est l'attitude des mères
 elles-mêmes, qui tendent à se concentrer sur ce qu’elles ne font pas ou
 à minimiser l'importance des tâches qu'elles accomplissent au quotidien.
-Par exemple, une mère peut simplement dire : **"Je n'ai rien fait de
-spécial, je me suis juste occupée de mon enfant"**, alors que cela
-inclut une gestion complexe et continue de la santé et du bien-être
-(Cresson, 1991, p. 34)​(1991Cresson). Ce déni de la valeur réelle de leur
-travail provient d’une conception culturelle profondément ancrée qui
-fait de l’amour et du soin des devoirs naturels plutôt qu'une forme de
-travail.
+Par exemple, une mère peut simplement dire : "Je n'ai rien fait de
+spécial, je me suis juste occupée de mon enfant", alors que cela inclut
+une gestion complexe et continue de la santé et du bien-être (Cresson,
+1991, p. 34)​(1991Cresson). Ce déni de la valeur réelle de leur travail
+provient d’une conception culturelle profondément ancrée qui fait de
+l’amour et du soin des devoirs naturels plutôt qu'une forme de travail.
 
 Cette invisibilité a des conséquences profondes sur la reconnaissance
 sociale et économique du travail des femmes. En réduisant le travail de
 soin à un simple acte d’amour maternel, on nie sa contribution réelle au
-bien-être familial et à la société en général. Cresson conclut que **"le
+bien-être familial et à la société en général. Cresson conclut que "le
 travail d’amour des femmes, parce qu'il est non rémunéré et considéré
 comme naturel, continue d’être marginalisé dans les discussions sur les
-droits économiques"**, renforçant ainsi les inégalités de genre
-(Cresson, 1991, p. 37)​(1991Cresson).
+droits économiques", renforçant ainsi les inégalités de genre (Cresson,
+1991, p. 37)​(1991Cresson).
 
 ## Conséquence : La charge mentale
 
-Geneviève Cresson met particulièrement en lumière la notion de **charge
-mentale** en soulignant que le travail des femmes ne se limite pas aux
+Geneviève Cresson met particulièrement en lumière la notion de charge
+mentale en soulignant que le travail des femmes ne se limite pas aux
 tâches physiques, mais inclut également une part invisible de gestion
-cognitive. Elle décrit cette charge mentale comme **"la gestion
-quotidienne et invisible de l’organisation domestique et familiale"**
+cognitive. Elle décrit cette charge mentale comme "la gestion
+quotidienne et invisible de l’organisation domestique et familiale"
 (Cresson, 1991, p. 32)​(1991Cresson). Cette gestion comprend la
 planification, l'anticipation des besoins et la coordination de toutes
 les activités qui maintiennent le foyer en équilibre, une tâche souvent
 méconnue mais omniprésente dans la vie des femmes.
 
-Un exemple concret de **charge mentale** peut être illustré par une
-femme qui doit constamment penser à organiser les rendez-vous médicaux
-pour ses enfants, anticiper les vaccins ou acheter des médicaments, tout
-en jonglant avec les autres tâches du quotidien. Dans ce cas, même si
-elle n'accomplit pas une tâche immédiatement visible, comme le fait de
+Un exemple concret de charge mentale peut être illustré par une femme
+qui doit constamment penser à organiser les rendez-vous médicaux pour
+ses enfants, anticiper les vaccins ou acheter des médicaments, tout en
+jonglant avec les autres tâches du quotidien. Dans ce cas, même si elle
+n'accomplit pas une tâche immédiatement visible, comme le fait de
 soigner directement, son rôle est crucial dans la gestion de la santé
-familiale. Cresson écrit que **"les femmes ne se contentent pas d'agir,
+familiale. Cresson écrit que "les femmes ne se contentent pas d'agir,
 elles pensent aussi à tout, ce qui leur impose une pression mentale et
-émotionnelle constante"** (Cresson, 1991, p. 33)​(1991Cresson).
+émotionnelle constante" (Cresson, 1991, p. 33)​(1991Cresson).
 
-Un autre exemple est celui des **femmes qui gèrent les soins informels
-pour les personnes âgées** dans leur famille. Même si elles
+Un autre exemple est celui des femmes qui gèrent les soins informels
+pour les personnes âgées dans leur famille. Même si elles
 n’interviennent pas quotidiennement auprès des personnes qu’elles
 soignent, elles doivent constamment anticiper les besoins futurs, comme
 organiser l’aide à domicile ou gérer les démarches administratives.
 Cette responsabilité continue est invisible, mais elle génère un stress
-important et une **"charge mentale permanente"**, comme le décrit
-Cresson, car elles doivent constamment veiller au bien-être de leurs
-proches (Cresson, 1991, p. 34)​(1991Cresson).
+important et une "charge mentale permanente", comme le décrit Cresson,
+car elles doivent constamment veiller au bien-être de leurs proches
+(Cresson, 1991, p. 34)​(1991Cresson).
 
-Cresson relie la charge mentale à une forme de **travail d’amour**, où
-les femmes ne sont pas seulement actrices des soins physiques, mais
-doivent aussi penser et organiser ce travail. Elle explique que cette
-gestion est une responsabilité lourde et souvent non partagée,
-renforçant ainsi les inégalités de genre : **"Les femmes assument non
-seulement la majeure partie des tâches visibles mais également la
-responsabilité de penser à celles qui ne sont pas encore réalisées"**
-(Cresson, 1991, p. 35)​(1991Cresson). Cela les place dans une position de
-**gestionnaire du bien-être familial**, un rôle qui, bien que non
-valorisé, structure leur quotidien et limite leur autonomie
-professionnelle et personnelle.
+Cresson relie la charge mentale à une forme de travail d’amour, où les
+femmes ne sont pas seulement actrices des soins physiques, mais doivent
+aussi penser et organiser ce travail. Elle explique que cette gestion
+est une responsabilité lourde et souvent non partagée, renforçant ainsi
+les inégalités de genre : "Les femmes assument non seulement la majeure
+partie des tâches visibles mais également la responsabilité de penser à
+celles qui ne sont pas encore réalisées" (Cresson, 1991, p.
+35)​(1991Cresson). Cela les place dans une position de gestionnaire du
+bien-être familial, un rôle qui, bien que non valorisé, structure leur
+quotidien et limite leur autonomie professionnelle et personnelle.
 
 Enfin, Cresson souligne que cette charge mentale invisibilise encore
 davantage le travail de soin réalisé par les femmes. Elle conclut que
-**"cette gestion mentale est rarement reconnue comme un travail à part
+"cette gestion mentale est rarement reconnue comme un travail à part
 entière, alors qu’elle est omniprésente et essentielle au bon
-fonctionnement du foyer"** (Cresson, 1991, p. 37)​(1991Cresson). Cette
+fonctionnement du foyer" (Cresson, 1991, p. 37)​(1991Cresson). Cette
 invisibilité participe à la dévalorisation du travail féminin, tant sur
 le plan social qu’économique, et contribue à maintenir les inégalités de
 genre dans la répartition des tâches domestiques et familiales.
 
 # Le "travail d'amour" dans les professions du care : sous-rémunération et dévalorisation
 
-Le **travail d'amour** ne se limite pas à la sphère familiale. Il
-s'étend également aux professions du **care**, telles que l’infirmerie,
-le travail social ou l’enseignement, qui sont fortement féminisées. Dans
-ces professions, les femmes effectuent un travail essentiel, mais qui
-reste sous-payé et dévalorisé, car il est considéré comme une extension
+Le travail d'amour ne se limite pas à la sphère familiale. Il s'étend
+également aux professions du care, telles que l’infirmerie, le travail
+social ou l’enseignement, qui sont fortement féminisées. Dans ces
+professions, les femmes effectuent un travail essentiel, mais qui reste
+sous-payé et dévalorisé, car il est considéré comme une extension
 naturelle de leur rôle domestique.
 
-Dans son article intitulé **"La santé, production invisible des
-femmes"**, Geneviève Cresson (1991) propose une analyse approfondie du
-travail sanitaire profane, réalisé par les femmes au sein des familles.
-Elle montre comment ce travail, tout en étant essentiel au bien-être des
+Dans son article intitulé "La santé, production invisible des femmes",
+Geneviève Cresson (1991) propose une analyse approfondie du travail
+sanitaire profane, réalisé par les femmes au sein des familles. Elle
+montre comment ce travail, tout en étant essentiel au bien-être des
 familles, reste invisible et largement dévalorisé, tant dans les sphères
 professionnelles que dans l’espace domestique lui-même. Cresson illustre
 également la manière dont les discours des femmes elles-mêmes tendent à
 minimiser ou à nier l'importance de leur contribution à la santé et au
 bien-être de leurs proches.
 
-## **Le travail sanitaire profane : une production invisible**
+## Le travail sanitaire profane : une production invisible
 
 Dès le début de l'article, Cresson pose un constat paradoxal : bien que
 les femmes soient les principales productrices de soins, que ce soit
 dans la sphère professionnelle ou privée, ce travail est souvent nié ou
-dévalorisé. Elle écrit : **"L'étude des relations entre femmes et santé
+dévalorisé. Elle écrit : "L'étude des relations entre femmes et santé
 bute souvent sur un constat paradoxal : les femmes sont les principales
 productrices de soins \[...\] mais cette production est sans cesse niée,
-banalisée ou dévalorisée"** (Cresson, 1991, p. 31)​(1991Cresson). Ce
-travail, qu’elle qualifie de **"travail sanitaire profane"**, fait
-partie intégrante du travail domestique, qui est lui-même sous-estimé.
-Elle souligne que ce type de travail inclut des tâches variées telles
-que la préparation de repas, le nettoyage, l’éducation à la santé ou
-encore la gestion des urgences médicales mineures, tâches souvent
-associées aux soins maternels.
+banalisée ou dévalorisée" (Cresson, 1991, p. 31)​(1991Cresson). Ce
+travail, qu’elle qualifie de "travail sanitaire profane", fait partie
+intégrante du travail domestique, qui est lui-même sous-estimé. Elle
+souligne que ce type de travail inclut des tâches variées telles que la
+préparation de repas, le nettoyage, l’éducation à la santé ou encore la
+gestion des urgences médicales mineures, tâches souvent associées aux
+soins maternels.
 
 Cresson s’appuie sur les travaux de Hilary Graham (1984), qui précise
 que la majorité de ce que les parents font pour leurs enfants peut être
-considéré comme un travail pour la santé : **"création des conditions
+considéré comme un travail pour la santé : "création des conditions
 favorables à la bonne santé (chaleur, confort, propreté, nourriture,
-protection...), soins aux malades, éducation à la santé"** (Cresson,
-1991, p. 32)​(1991Cresson). Ainsi, ce travail est incontournable mais
-largement ignoré, notamment parce qu’il ne s’inscrit pas dans une
-logique monétaire ni dans les systèmes de reconnaissance formels.
+protection...), soins aux malades, éducation à la santé" (Cresson, 1991,
+p. 32)​(1991Cresson). Ainsi, ce travail est incontournable mais largement
+ignoré, notamment parce qu’il ne s’inscrit pas dans une logique
+monétaire ni dans les systèmes de reconnaissance formels.
 
-## **Minimisation et invisibilité du travail de santé**
+## Minimisation et invisibilité du travail de santé
 
 Cresson explore les discours des femmes, et particulièrement leur
 tendance à minimiser ou à nier leur rôle dans la production de santé.
 Elle note que beaucoup de femmes qu’elle a interrogées parlent de leur
 contribution en termes négatifs ou restrictifs. Elles insistent
 davantage sur ce qu'elles ne font pas plutôt que sur ce qu'elles
-accomplissent. Elle mentionne des propos tels que **"Je n'ai rien
-fait"** ou **"Ce que j'ai fait ne compte pas"**, révélateurs de
-l’invisibilisation de leur travail​(1991Cresson).
+accomplissent. Elle mentionne des propos tels que "Je n'ai rien fait" ou
+"Ce que j'ai fait ne compte pas", révélateurs de l’invisibilisation de
+leur travail​(1991Cresson).
 
 Par exemple, une mère rapporte que deux de ses enfants ont eu de la
-fièvre, mais en minimisant son rôle : **"Je les ai soignés moi-même
-\[...\] et ça s'est passé tout seul"** (Cresson, 1991, p.
-33)​(1991Cresson). Bien qu'elle ait effectivement pris soin de ses
-enfants, la mère diminue l’importance de son action car elle n’a pas eu
-recours à un professionnel de la santé. Cette négation de la valeur de
-son travail est typique, selon Cresson, du fait que ce type de soins
-domestiques ne bénéficie pas de la reconnaissance institutionnelle
-qu’aurait un soin prodigué dans un cadre médical.
+fièvre, mais en minimisant son rôle : "Je les ai soignés moi-même et ça
+s'est passé tout seul" (Cresson, 1991, p. 33)​ Bien qu'elle ait
+effectivement pris soin de ses enfants, la mère diminue l’importance de
+son action car elle n’a pas eu recours à un professionnel de la santé.
+Cette négation de la valeur de son travail est typique, selon Cresson,
+du fait que ce type de soins domestiques ne bénéficie pas de la
+reconnaissance institutionnelle qu’aurait un soin prodigué dans un cadre
+médical.
 
 Un autre exemple est donné à propos d'une mère dont l’enfant souffre
-d’énurésie (mouiller le lit la nuit). Elle mentionne que **"ça fait les
+d’énurésie (mouiller le lit la nuit). Elle mentionne que "ça fait les
 draps à mettre dans la machine et puis remettre les draps tous les
-jours, ça prend cinq minutes"**, ce qui, pour elle, ne justifie pas de
-reconnaître cette activité comme un véritable travail​(1991Cresson). Ici,
-la tâche est minimisée en termes de temps et d’effort, ce qui contribue
-à sa dévalorisation.
+jours, ça prend cinq minutes", ce qui, pour elle, ne justifie pas de
+reconnaître cette activité comme un véritable travail​(1991Cresson).
+Ici,la tâche est minimisée en termes de temps et d’effort, ce qui
+contribue à sa dévalorisation.
 
-### \##  **Les caractéristiques du travail sanitaire profane**
+## Les caractéristiques du travail sanitaire profane
 
 Cresson souligne que l'une des caractéristiques essentielles de ce
 travail est sa nature invisible, notamment dans les enquêtes
 sociologiques qui passent souvent à côté de ce type d'activité. Elle
-rappelle que **"les enquêtes par budget-temps laissent filer ce travail
+rappelle que "les enquêtes par budget-temps laissent filer ce travail
 dans leurs mailles et ne rendent pas facilement compte des cumuls, de la
-charge mentale qu'il implique ou de la gestion des urgences"** (Cresson,
+charge mentale qu'il implique ou de la gestion des urgences" (Cresson,
 1991, p. 32)​(1991Cresson). Cette invisibilité est renforcée par le fait
 que ce travail est réalisé principalement par des femmes et n’est pas
 monétisé, ce qui le rend encore plus difficile à mesurer ou à évaluer.
@@ -385,100 +330,65 @@ L’article mentionne également les conditions dans lesquelles le travail
 sanitaire profane peut prendre une ampleur considérable, notamment en
 cas de maladie grave ou de handicap d’un membre de la famille. Dans ces
 situations, les tâches de soin peuvent devenir particulièrement lourdes,
-mais même dans des circonstances ordinaires, **"entre les deux tiers et
+mais même dans des circonstances ordinaires, "entre les deux tiers et
 les trois quarts des épisodes morbides sont traités directement par des
-profanes, sans recours aux services d'un-e professionnel-le"** (Cresson,
+profanes, sans recours aux services d'un-e professionnel-le" (Cresson,
 1991, p. 32)​(1991Cresson). Cela montre l’importance de ce travail
 informel, qui reste néanmoins largement invisibilisé dans les
 statistiques et les politiques publiques.
 
-### **Les limites de la reconnaissance du travail de soin**
+# Les limites de la reconnaissance du travail de soin
 
 Cresson aborde aussi la manière dont les mères interrogées expliquent
 que certaines activités ne sont pas perçues comme du "travail",
 notamment parce qu’elles impliquent un aspect affectif ou relationnel.
 Par exemple, une mère qui passe du temps à appliquer une pommade sur la
 peau de son enfant explique qu’elle ne considère pas cela comme un
-travail, car elle le fait en discutant avec lui : **"C'est comme si je
-mettais de la pommade pour moi"**​(1991Cresson). Cette proximité
+travail, car elle le fait en discutant avec lui : "C'est comme si je
+mettais de la pommade pour moi"​(1991Cresson). Cette proximité
 émotionnelle fait que les mères elles-mêmes ne voient pas cette activité
 comme une tâche laborieuse, même si elle demande du temps et de
 l’énergie.
 
 Cresson conclut que la difficulté des femmes à reconnaître leur propre
 contribution à la santé de leurs proches est ancrée dans des normes
-sociales qui opposent l’affectif et le productif. **"Tout se passe
+sociales qui opposent l’affectif et le productif. "Tout se passe
 largement encore comme si l'être et le faire, l'affectif et le
 productif, ne pouvaient se penser que comme des catégories antagonistes
-alors qu'elles sont, de fait, complémentaires"** (Cresson, 1991, p.
-42)​(1991Cresson). Ce phénomène reflète une dynamique plus large, où le
-travail domestique et de soin des femmes est à la fois essentiel et
-sous-estimé.
+alors qu'elles sont, de fait, complémentaires" (Cresson, 1991, p. 42).
+Ce phénomène reflète une dynamique plus large, où le travail domestique
+et de soin des femmes est à la fois essentiel et sous-estimé.
 
-## **Les implications pour la reconnaissance sociale du travail de soin**
-
-Cet article souligne l’importance de reconsidérer le travail sanitaire
-profane dans les analyses sociologiques et les politiques publiques.
-Selon Cresson, la reconnaissance de ce travail, tant au sein de la
-famille que dans la société, est cruciale pour valoriser les
-contributions invisibles des femmes et pour mieux comprendre les
-dynamiques de santé au sein des foyers. Elle conclut que **"la
-disponibilité de la mère reste une dimension capitale des soins qu'elle
-fournit à ses enfants"**, tout comme celle des femmes dans la famille ou
-la communauté​(1991Cresson). Cette disponibilité, à la fois physique et
-émotionnelle, est une des clés pour comprendre pourquoi ce travail est à
-la fois si essentiel et si peu reconnu.
-
-Geneviève Cresson met en lumière dans cet article la manière dont le
-travail de soin, réalisé principalement par les femmes au sein des
-familles, est à la fois fondamental et invisible. En décrivant les
-discours des femmes, qui tendent à minimiser ou nier l’importance de
-leurs actions, Cresson montre que cette invisibilité est à la fois une
-construction sociale et une réalité économique. Son appel à une
-meilleure reconnaissance de ce travail est essentiel pour comprendre les
-dynamiques de genre et de santé dans les familles et pour rendre visible
-une contribution majeure au bien-être social.
-
-4o
-
-## Exemple : Infirmières et travailleuses sociales
+# Exemple : Infirmières et travailleuses sociales
 
 Dans les professions de soin, les femmes apportent non seulement des
 soins physiques, mais aussi un soutien émotionnel aux patients ou aux
-clients. Comme l’explique **Hilary Graham**[^4] dans son ouvrage
-**"Caring: A Labour of Love"**, "le travail d'amour dans les professions
-de soin va au-delà des simples tâches techniques ; il implique une
-dimension émotionnelle qui est souvent considérée comme allant de soi,
-ce qui renforce la dévalorisation de ces professions" (Graham, 1983).
-Cette dimension émotionnelle, associée à des compétences comme l’écoute
-et l’empathie, est pourtant essentielle pour le bien-être des personnes
+clients. Comme l’explique Hilary Graham[^3] dans son ouvrage "Caring: A
+Labour of Love", "le travail d'amour dans les professions de soin va
+au-delà des simples tâches techniques ; il implique une dimension
+émotionnelle qui est souvent considérée comme allant de soi, ce qui
+renforce la dévalorisation de ces professions" (Graham, 1983). Cette
+dimension émotionnelle, associée à des compétences comme l’écoute et
+l’empathie, est pourtant essentielle pour le bien-être des personnes
 prises en charge.
 
-[^4]: Il est possible aussi de se référer à THE CONCEPT OF CARING IN
-    FEMINIST RESEARCH: THE CASE OF DOMESTIC SERVICE
-
-    Hilary Graham
-
-    Sociology
-
-    [Vol. 25, No. 1 (February
+[^3]: Il est possible aussi de se référer à THE CONCEPT OF CARING IN
+    FEMINIST RESEARCH: THE CASE OF DOMESTIC SERVICE Hilary Graham,
+    Sociology [Vol. 25, No. 1 (February
     1991)](https://www.jstor.org/stable/i40108636), pp. 61-78 (18 pages)
-
-    Published By: Sage Publications, Ltd.
 
 ## Conséquence : Précarité économique
 
 Les femmes travaillant dans ces secteurs sont souvent mal rémunérées,
-malgré l’importance sociale de leur travail. **Geneviève Cresson**
-rappelle que cette sous-rémunération est une conséquence directe du fait
-que "le travail de care est perçu comme une extension des
-responsabilités familiales, ce qui justifie une rémunération inférieure"
-(Cresson, 1991). Les travailleuses du **care** se retrouvent ainsi dans
-une situation de précarité économique, car leur travail est
-systématiquement dévalorisé, même s’il est crucial pour le
-fonctionnement de la société.
+malgré l’importance sociale de leur travail. Geneviève Cresson rappelle
+que cette sous-rémunération est une conséquence directe du fait que "le
+travail de care est perçu comme une extension des responsabilités
+familiales, ce qui justifie une rémunération inférieure" (Cresson,
+1991). Les travailleuses du care se retrouvent ainsi dans une situation
+de précarité économique, car leur travail est systématiquement
+dévalorisé, même s’il est crucial pour le fonctionnement de la société.
 
-# 3. Dépendance et précarité économiques
+## Dépendance et précarité économiques
 
 Le travail de soin, qu'il soit rémunéré ou non, a un impact considérable
 sur l'indépendance économique des femmes et contribue à perpétuer les
@@ -489,7 +399,7 @@ composent. Son travail met en lumière les formes d'exploitation que
 subissent les femmes, en particulier celles issues de minorités raciales
 et socio-économiques.
 
-### Le travail de soin : au-delà de l'invisibilité
+# Le travail de soin : au-delà de l'invisibilité
 
 Le "care" est souvent perçu comme une tâche domestique non rémunérée,
 réalisée dans la sphère familiale, principalement par les femmes. Cette
@@ -508,7 +418,7 @@ travaillant à l'étranger en tant qu'aides à domicile, envoyant
 régulièrement de l'argent à leur famille tout en sacrifiant leur propre
 bien-être et celui de leurs proches.
 
-### La double exploitation des femmes marginalisées
+## La double exploitation des femmes marginalisées
 
 Graham souligne particulièrement la double exploitation des femmes
 marginalisées, qui sont souvent employées pour fournir des soins
@@ -530,9 +440,9 @@ d'inégalité systémique, où le travail domestique des femmes de couleur
 est à la fois nécessaire pour la survie des familles riches et ignoré en
 tant que contribution économique valable.
 
-## Le travail d'amour : une conception révisée du soin
+# Le travail d'amour : une conception révisée du soin
 
-Dans *Labour of Love* (1982)[^5], Graham redéfinit le soin comme un
+Dans Labour of Love (1982)[^4], Graham redéfinit le soin comme un
 "travail d'amour" qui persiste même lorsque les émotions faiblissent.
 Elle écrit : "le soin est un travail d'amour où le travail doit
 continuer même lorsque l'amour vacille" (Graham, 1982, p. 16). Cette
@@ -547,21 +457,21 @@ alimentation), même si l'attachement émotionnel initial peut s'être
 du soin selon Graham : un travail à la fois physique et émotionnel,
 souvent invisible et mal reconnu.
 
-[^5]: **A Labour of Love: Women, Work and Caring"** *Édité par Janet
-    Finch et Dulcie Groves, publié en 1983, réédité en 2022 par
-    Routledge.* **"A Labour of Love: Women, Work and Caring"** est un
-    ouvrage collectif qui explore les rôles genrés dans le travail de
-    soin et leur impact sur les femmes. Publié pour la première fois en
-    1983, ce livre fait partie de la collection **Routledge Library
-    Editions: Women and Work**, qui aborde les questions de genre, du
-    travail et de la politique sociale. L’ouvrage vise à analyser le
-    rôle central des femmes dans le domaine des soins, qu'il s'agisse de
-    soins non rémunérés au sein de la famille ou de soins rémunérés dans
-    des contextes professionnels. Il se penche sur la manière dont le
-    travail de soin est souvent perçu comme une responsabilité naturelle
-    des femmes, et examine les conséquences économiques et sociales de
-    cette perception. Le livre présente une critique de la division
-    genrée du travail, en soulignant comment cette division renforce les
+[^4]: A Labour of Love: Women, Work and Caring" Édité par Janet Finch et
+    Dulcie Groves, publié en 1983, réédité en 2022 par Routledge. "A
+    Labour of Love: Women, Work and Caring" est un ouvrage collectif qui
+    explore les rôles genrés dans le travail de soin et leur impact sur
+    les femmes. Publié pour la première fois en 1983, ce livre fait
+    partie de la collection Routledge Library Editions: Women and Work,
+    qui aborde les questions de genre, du travail et de la politique
+    sociale. L’ouvrage vise à analyser le rôle central des femmes dans
+    le domaine des soins, qu'il s'agisse de soins non rémunérés au sein
+    de la famille ou de soins rémunérés dans des contextes
+    professionnels. Il se penche sur la manière dont le travail de soin
+    est souvent perçu comme une responsabilité naturelle des femmes, et
+    examine les conséquences économiques et sociales de cette
+    perception. Le livre présente une critique de la division genrée du
+    travail, en soulignant comment cette division renforce les
     inégalités entre hommes et femmes.
 
 Dans un contexte professionnel, cette conception du soin peut également
@@ -630,49 +540,12 @@ cette interdépendance entre le matériel et l’émotionnel que l’on peut
 commencer à valoriser le travail de soin à sa juste mesure et à
 promouvoir une plus grande égalité sociale.
 
-# 4. Revalorisation du "travail d'amour" : vers des solutions
-
-Il est essentiel de reconnaître la valeur du **travail d'amour** et de
-mettre en place des politiques visant à le revaloriser, tant dans la
-sphère domestique que professionnelle. Plusieurs pistes peuvent être
-envisagées pour corriger les inégalités et améliorer la situation des
-femmes qui assument ces responsabilités.
-
-## Reconnaissance économique et sociale
-
-Des mesures politiques pourraient être adoptées pour mieux reconnaître
-le **travail d'amour**. Par exemple, en introduisant des aides
-financières pour les aidants familiaux, ou en augmentant les salaires
-des professions du **care**. **Geneviève Cresson** appelle à une
-"reconnaissance publique et financière des soins non rémunérés pour
-alléger la charge pesant sur les femmes" (Cresson, 1991).
-
-## Partage égalitaire des tâches
-
-Il est également crucial de promouvoir un partage plus égalitaire des
-responsabilités de soins entre hommes et femmes. **Hilary Graham**
-souligne que "le travail de soin ne devrait pas être exclusivement
-assigné aux femmes ; il est nécessaire d'encourager les hommes à prendre
-part à ces tâches pour alléger la charge qui repose sur les femmes"
-(Graham, 1983). Cela permettrait non seulement de réduire la charge
-mentale des femmes, mais aussi d’améliorer l’équilibre entre travail
-professionnel et tâches domestiques.
-
-## Politiques de soutien aux aidants
-
-Les politiques publiques pourraient également inclure des **congés
-parentaux** ou **congés pour aidants**, bien rémunérés et accessibles
-aux deux sexes, pour permettre aux aidants de concilier plus facilement
-vie professionnelle et responsabilités familiales sans subir de
-conséquences financières négatives.
-
 # Conclusion
 
-Le **travail d'amour** est un élément central mais largement invisible
-du fonctionnement social. Il repose sur une division genrée du travail
-qui confine les femmes à des tâches non rémunérées ou sous-rémunérées,
-tant dans la sphère privée que dans les professions du **care**.
-Revaloriser ce travail en reconnaissant ses dimensions économiques,
-sociales et émotionnelles est essentiel pour corriger les inégalités
-persistantes entre les sexes et pour améliorer la qualité de vie des
-femmes.
+Le travail d'amour est un élément central mais largement invisible du
+fonctionnement social. Il repose sur une division genrée du travail qui
+confine les femmes à des tâches non rémunérées ou sous-rémunérées, tant
+dans la sphère privée que dans les professions du care. Revaloriser ce
+travail en reconnaissant ses dimensions économiques, sociales et
+émotionnelles est essentiel pour corriger les inégalités persistantes
+entre les sexes et pour améliorer la qualité de vie des femmes.
